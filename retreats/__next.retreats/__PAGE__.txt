@@ -1,0 +1,55 @@
+1:"$Sreact.fragment"
+4:I[97367,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T1000,<div style="position:relative;height:clamp(280px,40vw,500px);background:url('/mockdesign/uploads/assets/estate/gallery/estate-006.webp') center 58%/cover no-repeat #E5DFD3;display:grid;place-items:center;">
+      <div style="position:absolute;inset:0;background:linear-gradient(to top,rgba(28,26,22,.42),transparent 60%);"></div>
+      <div style="position:absolute;left:0;bottom:0;padding:clamp(24px,4vw,64px);">
+        <p class="hero-tag">Retreats &amp; Workshops</p>
+        <h1 class="hero-heading" style="margin:0;max-width:20ch;font-size:clamp(28px,4.2vw,60px);text-align:left;">Come here to make something</h1>
+      </div>
+    </div>
+
+    <div style="padding:clamp(44px,6vw,100px) clamp(20px,5vw,84px) clamp(20px,3vw,40px);max-width:820px;">
+      <p style="margin:0;font-family:var(--font-heading);font-size:clamp(17px,1.7vw,24px);line-height:1.65;color:#22201C;text-wrap:pretty;">
+        We host a handful of things ourselves and lend the estate for others. In every case it is a conversation first — tell us the shape of what you want and we will say what is possible.
+      </p>
+    </div>
+
+    <div style="padding:0 clamp(20px,5vw,84px) clamp(48px,7vw,110px);display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:clamp(24px,3vw,52px);">
+      <div>
+        <div style="position:relative;aspect-ratio:3/4;background:url('/mockdesign/uploads/assets/estate/gallery/estate-004.webp') center/cover no-repeat #E5DFD3;"></div>
+        <p style="margin:clamp(16px,1.8vw,24px) 0 10px;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--color-accent);">Two to five nights</p>
+        <h2 style="margin:0 0 12px;font-family:var(--font-heading);font-size:clamp(21px,2.1vw,30px);line-height:1.2;color:#22201C;">Retreats</h2>
+        <p style="margin:0;font-size:clamp(14px,1.08vw,16px);line-height:1.75;color:rgba(34,32,28,.68);text-wrap:pretty;">
+          Yoga, writing, walking or silence. Full board from the kitchen garden, sole use of a house and the orangery to gather in.
+        </p>
+      </div>
+
+      <div>
+        <div style="position:relative;aspect-ratio:3/4;background:url('/mockdesign/uploads/assets/estate/gallery/venues-020.webp') center/cover no-repeat #E5DFD3;"></div>
+        <p style="margin:clamp(16px,1.8vw,24px) 0 10px;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--color-accent);">A day, or a weekend</p>
+        <h2 style="margin:0 0 12px;font-family:var(--font-heading);font-size:clamp(21px,2.1vw,30px);line-height:1.2;color:#22201C;">Workshops</h2>
+        <p style="margin:0;font-size:clamp(14px,1.08vw,16px);line-height:1.75;color:rgba(34,32,28,.68);text-wrap:pretty;">
+          Small groups with makers we know — pottery, botanical dye, bread, hedgerow foraging. Twelve people at most.
+        </p>
+      </div>
+
+      <div>
+        <div style="position:relative;aspect-ratio:3/4;background:url('/mockdesign/uploads/assets/estate/gallery/venues-024.webp') 42% center/cover no-repeat #E5DFD3;"></div>
+        <p style="margin:clamp(16px,1.8vw,24px) 0 10px;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:var(--color-accent);">By arrangement</p>
+        <h2 style="margin:0 0 12px;font-family:var(--font-heading);font-size:clamp(21px,2.1vw,30px);line-height:1.2;color:#22201C;">Private celebrations</h2>
+        <p style="margin:0;font-size:clamp(14px,1.08vw,16px);line-height:1.75;color:rgba(34,32,28,.68);text-wrap:pretty;">
+          Birthdays, anniversaries, quiet weddings. We take one party at a time and the whole estate is yours.
+        </p>
+      </div>
+    </div>
+
+    <!-- Ask Banner -->
+    <div style="padding:clamp(44px,6vw,96px) clamp(20px,5vw,84px);background:#EFEBE2;text-align:center;">
+      <p style="margin:0 auto clamp(24px,3vw,36px);max-width:36ch;font-family:var(--font-heading);font-size:clamp(20px,2.5vw,34px);line-height:1.35;color:#22201C;text-wrap:balance;">
+        Something else in mind? Ask us — most of what happens here started as a question.
+      </p>
+      <a href="/mockdesign/contact" class="btn-dark">Make an Enquiry</a>
+    </div>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JNvONIVtNSg73Xsldj8ox"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

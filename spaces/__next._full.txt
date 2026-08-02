@@ -1,0 +1,136 @@
+1:"$Sreact.fragment"
+2:I[4481,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[39756,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[22016,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[78339,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+7:I[14020,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+8:I[80937,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+d:I[68027,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/mockdesign/_next/static/chunks/179aqob9ln34-.css","style"]
+9:T2031,<div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px) clamp(30px,4vw,52px);max-width:900px;">
+      <p class="section-tag">Spaces &amp; Venue Hire</p>
+      <h1 class="page-title">Rooms and ground for gathering</h1>
+      <p class="page-subtitle">
+        Leadership off-sites, team retreats, strategy days and private celebrations. Nothing here is a hired venue with a rate card — these are parts of the estate we open up, arranged around what you are doing.
+      </p>
+    </div>
+
+    <div style="padding:0 clamp(20px,5vw,84px) clamp(48px,7vw,110px);display:flex;flex-direction:column;gap:clamp(36px,5vw,90px);">
+      
+      <!-- Les Bureaux -->
+      <section class="workspace-feature" aria-labelledby="bureaux-title">
+        <div class="workspace-intro">
+          <div>
+            <p class="section-tag">Les Bureaux · two rooms, up to 15 guests each</p>
+            <h2 id="bureaux-title">Where great ideas take shape</h2>
+          </div>
+          <p>
+            Designed for focus, creativity and meaningful collaboration, Les Bureaux brings the comfort of a considered workplace into the quiet of the Bois Saint-Jean Estate.
+          </p>
+        </div>
+
+        <div class="workspace-hero-grid">
+          <div class="workspace-hero-image" role="img" aria-label="Les Bureaux within the Bois Saint-Jean Estate"></div>
+          <div class="workspace-copy">
+            <h3>Independent, flexible and fully equipped</h3>
+            <p>
+              Set in a completely independent building, the workspaces are suited to board meetings, training sessions, workshops, coaching, strategy days and corporate retreats. Authentic Ardennes character sits alongside the practical amenities businesses expect, creating a setting that feels refined, welcoming and effortless from arrival to departure.
+            </p>
+            <p>
+              The Sand Meeting Room and the Wood Meeting Room each welcome up to fifteen guests. Book either room independently or reserve both for complete flexibility across different group sizes, breakout sessions and event formats.
+            </p>
+
+            <div class="workspace-stats" aria-label="Les Bureaux capacity">
+              <div><strong>2</strong><span>Meeting rooms</span></div>
+              <div><strong>15</strong><span>Guests per room</span></div>
+              <div><strong>1 or 2</strong><span>Rooms bookable</span></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="workspace-photo-strip" aria-label="Les Bureaux photography">
+          <div style="background-image:url('/mockdesign/uploads/assets/estate/gallery/workspaces-002.webp');" role="img" aria-label="The Sand Meeting Room"></div>
+          <div style="background-image:url('/mockdesign/uploads/assets/estate/gallery/workspaces-010.webp');" role="img" aria-label="The Wood Meeting Room"></div>
+          <div style="background-image:url('/mockdesign/uploads/assets/estate/gallery/workspaces-015.webp');" role="img" aria-label="Details prepared for a meeting at Les Bureaux"></div>
+        </div>
+
+        <div class="workspace-amenities">
+          <div><span>01</span><p>Connected displays, whiteboards and stationery in both rooms</p></div>
+          <div><span>02</span><p>Private lounge areas for conversation and quieter breaks</p></div>
+          <div><span>03</span><p>Fully equipped kitchen and private bathroom</p></div>
+          <div><span>04</span><p>Abundant natural light, generous volumes and considered materials</p></div>
+          <div><span>05</span><p>Complimentary private parking directly at the building</p></div>
+          <div><span>06</span><p>Optional catering arranged around your meeting or retreat</p></div>
+        </div>
+
+        <div class="workspace-closing">
+          <p>
+            Beyond the meeting rooms, forests, meadows and tranquil ponds offer space for perspective and connection. More than a venue, Les Bureaux is where business, wellbeing and nature come together for productive meetings and memorable team experiences.
+          </p>
+          <a href="/mockdesign/contact" class="btn-dark">Enquire about Les Bureaux</a>
+        </div>
+      </section>
+
+      <!-- Reception Venues -->
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:clamp(22px,3vw,56px);align-items:center;">
+        <div style="position:relative;aspect-ratio:4/3;background:url('/mockdesign/uploads/assets/estate/gallery/venues-026.webp') center/cover no-repeat #E5DFD3;"></div>
+        <div>
+          <p style="margin:0 0 10px;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:rgba(34,32,28,.5);">Indoor · 90 to 200 guests</p>
+          <h2 style="margin:0 0 14px;font-family:var(--font-heading);font-size:clamp(22px,2.5vw,36px);line-height:1.2;color:#22201C;">Reception venues</h2>
+          <p style="margin:0 0 14px;max-width:44ch;font-size:clamp(14.5px,1.15vw,16.5px);line-height:1.8;color:rgba(34,32,28,.7);text-wrap:pretty;">
+            A small reception hall in stone and vaulted brick for up to ninety, and the Barn — 150 seated, 200 standing — under a magnificent timber frame. A shared professional kitchen serves both.
+          </p>
+          <a href="/mockdesign/contact" class="card-link-arrow">Enquire about the venues →</a>
+        </div>
+      </div>
+
+      <!-- The Walled Garden -->
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:clamp(22px,3vw,56px);align-items:center;">
+        <div>
+          <p style="margin:0 0 10px;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:rgba(34,32,28,.5);">Outdoor · up to 80</p>
+          <h2 style="margin:0 0 14px;font-family:var(--font-heading);font-size:clamp(22px,2.5vw,36px);line-height:1.2;color:#22201C;">The Walled Garden</h2>
+          <p style="margin:0;max-width:44ch;font-size:clamp(14.5px,1.15vw,16.5px);line-height:1.8;color:rgba(34,32,28,.7);text-wrap:pretty;">
+            Brick on four sides, so it holds the warmth into the evening. Long tables down the central path, drinks by the greenhouse.
+          </p>
+        </div>
+        <div style="position:relative;aspect-ratio:4/3;background:url('/mockdesign/uploads/assets/estate/gallery/estate-063.webp') center/cover no-repeat #E5DFD3;"></div>
+      </div>
+
+      <!-- The Orangery -->
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:clamp(22px,3vw,56px);align-items:center;">
+        <div style="position:relative;aspect-ratio:4/3;background:url('/mockdesign/uploads/assets/estate/gallery/workspaces-010.webp') center/cover no-repeat #E5DFD3;"></div>
+        <div>
+          <p style="margin:0 0 10px;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:rgba(34,32,28,.5);">Indoor · up to 30</p>
+          <h2 style="margin:0 0 14px;font-family:var(--font-heading);font-size:clamp(22px,2.5vw,36px);line-height:1.2;color:#22201C;">The Orangery</h2>
+          <p style="margin:0;max-width:44ch;font-size:clamp(14.5px,1.15vw,16.5px);line-height:1.8;color:rgba(34,32,28,.7);text-wrap:pretty;">
+            Glass on three sides and a wood floor. Right for a small dinner, a talk, or a retreat that needs somewhere warm to sit in a circle.
+          </p>
+        </div>
+      </div>
+
+      <!-- The Meadow -->
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:clamp(22px,3vw,56px);align-items:center;">
+        <div>
+          <p style="margin:0 0 10px;font-size:10px;letter-spacing:.2em;text-transform:uppercase;color:rgba(34,32,28,.5);">Outdoor · marquee possible</p>
+          <h2 style="margin:0 0 14px;font-family:var(--font-heading);font-size:clamp(22px,2.5vw,36px);line-height:1.2;color:#22201C;">The Meadow</h2>
+          <p style="margin:0;max-width:44ch;font-size:clamp(14.5px,1.15vw,16.5px);line-height:1.8;color:rgba(34,32,28,.7);text-wrap:pretty;">
+            Level ground below the beech avenue with vehicle access and power. The obvious place for anything larger.
+          </p>
+        </div>
+        <div style="position:relative;aspect-ratio:4/3;background:url('/mockdesign/uploads/assets/estate/gallery/estate-060.webp') center/cover no-repeat #E5DFD3;"></div>
+      </div>
+
+    </div>0:{"P":null,"c":["","spaces",""],"q":"","i":false,"f":[[["",{"children":["spaces",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mockdesign/_next/static/chunks/179aqob9ln34-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/mockdesign/_next/static/chunks/005xdr-dtjiag.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/mockdesign/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"style":{"--hero-banner-image":"url('/mockdesign/uploads/assets/estate/gallery/estate-006.webp')","--workspace-hero-image":"url('/mockdesign/uploads/assets/estate/gallery/workspaces-001.webp')"},"children":["$","div",null,{"className":"site-wrapper","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"children":[["$","p",null,{"className":"footer-brand","children":"BOIS SAINT-JEAN"}],["$","p",null,{"className":"footer-sub","children":"Estate · Belgian Ardennes"}]]}],["$","div",null,{"className":"footer-col","children":[["$","$L5",null,{"href":"/about","children":"About"}],["$","$L5",null,{"href":"/stay","children":"Stay"}],["$","$L5",null,{"href":"/spaces","children":"Spaces & Venue Hire"}]]}],["$","div",null,{"className":"footer-col","children":[["$","$L5",null,{"href":"/retreats","children":"Retreats & Workshops"}],["$","$L5",null,{"href":"/gallery","children":"Gallery"}],["$","$L5",null,{"href":"/contact","children":"Contact"}]]}],["$","div",null,{"children":[["$","a",null,{"href":"mailto:enquiries@boissaintjean.be","style":{"fontSize":13,"color":"rgba(247,244,238,.62)"},"children":"enquiries@boissaintjean.be"}],["$","p",null,{"style":{"margin":"10px 0 0","fontSize":13,"color":"rgba(247,244,238,.45)"},"children":"+32 (0)61 00 00 00"}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","p",null,{"className":"footer-copy","children":"© 2026 Bois Saint-Jean Estate. All rights reserved."}],["$","div",null,{"className":"footer-legal-links","children":[["$","$L5",null,{"href":"/privacy","children":"Privacy policy"}],["$","$L5",null,{"href":"/privacy","children":"Cookie policy"}]]}]]}]]}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$9"}}],null,"$La"]}],{},null,false,null]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"JNvONIVtNSg73Xsldj8ox"}
+f:I[97367,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+15:I[97367,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+12:[]
+b:"$W12"
+c:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],null]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/mockdesign/_next/static/chunks/179aqob9ln34-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+16:[["$","title","0",{"children":"Spaces & Venue Hire | Bois Saint-Jean"}],["$","meta","1",{"name":"description","content":"Inspiring meeting rooms, event venues and outdoor gathering spaces with flexible facilities, catering and nature on every side."}]]

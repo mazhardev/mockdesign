@@ -1,0 +1,121 @@
+1:"$Sreact.fragment"
+2:I[4481,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[39756,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[22016,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[78339,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+7:I[14020,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+8:I[80937,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+d:I[68027,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/mockdesign/_next/static/chunks/179aqob9ln34-.css","style"]
+9:T20eb,<div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px) clamp(32px,4vw,56px);max-width:1000px;">
+      <p class="section-tag">The Estate</p>
+      <h1 class="page-title">A private estate where nature takes centre stage</h1>
+      <p class="page-subtitle">
+        Bois Saint-Jean is one of those rare places. Set in the heart of the Belgian Ardennes, this private estate invites you to slow down, breathe deeply and reconnect with what truly matters. Here time seems to stand still, and the days unfold at nature's own pace — accompanied only by birdsong, the whisper of the trees and the sound of water.
+      </p>
+    </div>
+
+    <div style="position:relative;height:clamp(280px,42vw,540px);background:url('/mockdesign/uploads/assets/estate/gallery/estate-068.webp') center 58%/cover no-repeat #E5DFD3;"></div>
+
+    <!-- Quote Block -->
+    <div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px);background:#EFEBE2;text-align:center;">
+      <p style="margin:0 auto;max-width:30ch;font-family:var(--font-heading);font-size:clamp(22px,2.9vw,40px);line-height:1.35;color:#22201C;text-wrap:balance;">
+        Some places are simply visited. Others are truly experienced.
+      </p>
+    </div>
+
+    <!-- The Land -->
+    <div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px);display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:clamp(28px,4vw,70px);align-items:center;">
+      <div>
+        <h2 style="margin:0 0 18px;font-family:var(--font-heading);font-size:clamp(22px,2.4vw,34px);line-height:1.25;color:#22201C;">The land</h2>
+        <p style="margin:0 0 16px;font-size:clamp(14.5px,1.15vw,16.5px);line-height:1.8;color:rgba(34,32,28,.7);text-wrap:pretty;">
+          Acres of pristine woodland, rolling meadows and unspoiled landscape, where every walk turns up a new perspective. The estate's many ponds and water features hold a contemplative kind of quiet, and the light changes the scenery hour by hour and season by season.
+        </p>
+        <p style="margin:0;font-size:clamp(14.5px,1.15vw,16.5px);line-height:1.8;color:rgba(34,32,28,.7);text-wrap:pretty;">
+          What makes it exceptional is the exclusivity: an entirely private estate, sheltered from the outside world, where space, tranquillity and privacy come together as one of life's greatest luxuries. No crowds, no traffic, no distractions — only the rare feeling of having nature all to yourself.
+        </p>
+      </div>
+      <div style="position:relative;aspect-ratio:4/5;background:url('/mockdesign/uploads/assets/estate/gallery/estate-025.webp') center/cover no-repeat #E5DFD3;"></div>
+    </div>
+
+    <!-- The Seasons -->
+    <div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px);background:#EFEBE2;">
+      <p class="section-tag" style="margin-bottom:clamp(16px,2vw,24px);">The seasons</p>
+      <p style="margin:0 0 clamp(30px,4vw,52px);max-width:52ch;font-family:var(--font-heading);font-size:clamp(19px,2.1vw,28px);line-height:1.45;color:#22201C;text-wrap:pretty;">
+        Each season tells its own story — an ever-changing spectacle, authentic and unforgettable.
+      </p>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:clamp(22px,3vw,48px);">
+        <div>
+          <p style="margin:0 0 10px;font-size:10px;letter-spacing:.24em;text-transform:uppercase;color:var(--color-accent);">Spring</p>
+          <p style="margin:0;font-size:clamp(14px,1.08vw,16px);line-height:1.75;color:rgba(34,32,28,.68);text-wrap:pretty;">The forest wakes to vibrant new life.</p>
+        </div>
+        <div>
+          <p style="margin:0 0 10px;font-size:10px;letter-spacing:.24em;text-transform:uppercase;color:var(--color-accent);">Summer</p>
+          <p style="margin:0;font-size:clamp(14px,1.08vw,16px);line-height:1.75;color:rgba(34,32,28,.68);text-wrap:pretty;">Long days, spent almost entirely outdoors.</p>
+        </div>
+        <div>
+          <p style="margin:0 0 10px;font-size:10px;letter-spacing:.24em;text-transform:uppercase;color:var(--color-accent);">Autumn</p>
+          <p style="margin:0;font-size:clamp(14px,1.08vw,16px);line-height:1.75;color:rgba(34,32,28,.68);text-wrap:pretty;">The landscape turns spectacular shades of gold and crimson.</p>
+        </div>
+        <div>
+          <p style="margin:0 0 10px;font-size:10px;letter-spacing:.24em;text-transform:uppercase;color:var(--color-accent);">Winter</p>
+          <p style="margin:0;font-size:clamp(14px,1.08vw,16px);line-height:1.75;color:rgba(34,32,28,.68);text-wrap:pretty;">A peaceful, almost magical silence settles over everything.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- The Houses -->
+    <div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px);display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:clamp(28px,4vw,70px);align-items:center;">
+      <div style="position:relative;aspect-ratio:4/5;background:url('/mockdesign/uploads/assets/estate/gallery/farm-cottage-004.webp') center/cover no-repeat #E5DFD3;"></div>
+      <div>
+        <h2 style="margin:0 0 18px;font-family:var(--font-heading);font-size:clamp(22px,2.4vw,34px);line-height:1.25;color:#22201C;">The houses</h2>
+        <p style="margin:0 0 16px;font-size:clamp(14.5px,1.15vw,16.5px);line-height:1.8;color:rgba(34,32,28,.7);text-wrap:pretty;">
+          The estate's characterful homes were made as warm, elegant retreats, where the timeless charm of the Ardennes meets modern comfort. Natural stone, exposed timber, generous living spaces and sweeping views over the countryside — an atmosphere of understated luxury.
+        </p>
+        <p style="margin:0 0 20px;font-size:clamp(14.5px,1.15vw,16.5px);line-height:1.8;color:rgba(34,32,28,.7);text-wrap:pretty;">
+          Right for gathering with family, sharing a memorable meal with friends, or simply sitting quietly by the fire.
+        </p>
+        <a href="/mockdesign/stay" class="card-link-arrow">The houses →</a>
+      </div>
+    </div>
+
+    <!-- Occasions -->
+    <div style="padding:0 clamp(20px,5vw,84px) clamp(48px,7vw,110px);max-width:900px;">
+      <p class="section-tag" style="margin-bottom:clamp(20px,2.4vw,32px);">Occasions</p>
+      <p style="margin:0 0 clamp(20px,2.4vw,30px);font-family:var(--font-heading);font-size:clamp(19px,2.1vw,28px);line-height:1.45;color:#22201C;text-wrap:pretty;">
+        Bois Saint-Jean is a place where life's most meaningful moments are celebrated.
+      </p>
+      <p style="margin:0;max-width:58ch;font-size:clamp(14.5px,1.15vw,16.5px);line-height:1.8;color:rgba(34,32,28,.7);text-wrap:pretty;">
+        Family holidays, reunions, intimate weddings, corporate retreats and wellness escapes all take on a different dimension here. The surroundings inspire creativity, encourage genuine connection, and give you the room to reconnect — with others, and with yourself.
+      </p>
+    </div>
+
+    <!-- Triple Image Grid -->
+    <div style="padding:0 clamp(20px,5vw,84px) clamp(48px,7vw,110px);display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:clamp(20px,2.6vw,44px);">
+      <div style="position:relative;aspect-ratio:1;background:url('/mockdesign/uploads/assets/estate/gallery/estate-006.webp') center/cover no-repeat #E5DFD3;"></div>
+      <div style="position:relative;aspect-ratio:1;background:url('/mockdesign/uploads/assets/estate/gallery/estate-063.webp') center/cover no-repeat #E5DFD3;"></div>
+      <div style="position:relative;aspect-ratio:1;background:url('/mockdesign/uploads/assets/estate/gallery/estate-062.webp') center/cover no-repeat #E5DFD3;"></div>
+    </div>
+
+    <!-- Closing -->
+    <div style="padding:clamp(60px,9vw,140px) clamp(20px,5vw,84px);background:#22201C;text-align:center;">
+      <p style="margin:0 auto clamp(20px,2.4vw,32px);max-width:44ch;font-size:clamp(15px,1.2vw,17px);line-height:1.8;color:rgba(247,244,238,.72);text-wrap:pretty;">
+        A few minutes from the charming town of La Roche-en-Ardenne, and still a world apart — a secluded haven where nature reigns supreme, and every stay becomes an experience of serenity, beauty and timeless elegance.
+      </p>
+      <p style="margin:0 auto;max-width:26ch;font-family:var(--font-heading);font-size:clamp(24px,3.4vw,48px);line-height:1.32;color:#F7F4EE;text-wrap:balance;">
+        Welcome to Bois Saint-Jean.
+      </p>
+    </div>0:{"P":null,"c":["","about",""],"q":"","i":false,"f":[[["",{"children":["about",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mockdesign/_next/static/chunks/179aqob9ln34-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/mockdesign/_next/static/chunks/005xdr-dtjiag.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/mockdesign/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"style":{"--hero-banner-image":"url('/mockdesign/uploads/assets/estate/gallery/estate-006.webp')","--workspace-hero-image":"url('/mockdesign/uploads/assets/estate/gallery/workspaces-001.webp')"},"children":["$","div",null,{"className":"site-wrapper","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"children":[["$","p",null,{"className":"footer-brand","children":"BOIS SAINT-JEAN"}],["$","p",null,{"className":"footer-sub","children":"Estate · Belgian Ardennes"}]]}],["$","div",null,{"className":"footer-col","children":[["$","$L5",null,{"href":"/about","children":"About"}],["$","$L5",null,{"href":"/stay","children":"Stay"}],["$","$L5",null,{"href":"/spaces","children":"Spaces & Venue Hire"}]]}],["$","div",null,{"className":"footer-col","children":[["$","$L5",null,{"href":"/retreats","children":"Retreats & Workshops"}],["$","$L5",null,{"href":"/gallery","children":"Gallery"}],["$","$L5",null,{"href":"/contact","children":"Contact"}]]}],["$","div",null,{"children":[["$","a",null,{"href":"mailto:enquiries@boissaintjean.be","style":{"fontSize":13,"color":"rgba(247,244,238,.62)"},"children":"enquiries@boissaintjean.be"}],["$","p",null,{"style":{"margin":"10px 0 0","fontSize":13,"color":"rgba(247,244,238,.45)"},"children":"+32 (0)61 00 00 00"}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","p",null,{"className":"footer-copy","children":"© 2026 Bois Saint-Jean Estate. All rights reserved."}],["$","div",null,{"className":"footer-legal-links","children":[["$","$L5",null,{"href":"/privacy","children":"Privacy policy"}],["$","$L5",null,{"href":"/privacy","children":"Cookie policy"}]]}]]}]]}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$9"}}],null,"$La"]}],{},null,false,null]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"JNvONIVtNSg73Xsldj8ox"}
+f:I[97367,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+15:I[97367,["/mockdesign/_next/static/chunks/005xdr-dtjiag.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+12:[]
+b:"$W12"
+c:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],null]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/mockdesign/_next/static/chunks/179aqob9ln34-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+16:[["$","title","0",{"children":"The Estate | Bois Saint-Jean"}],["$","meta","1",{"name":"description","content":"Learn about Bois Saint-Jean, its landscape, history and quiet approach to welcoming guests in the Belgian Ardennes."}]]
