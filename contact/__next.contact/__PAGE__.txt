@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T12c1,<div class="contact-hero">
+2:T12cc,<div class="contact-hero">
       <p class="section-tag">Enquiries</p>
       <h1 class="page-title">Write to us</h1>
       <p class="page-subtitle">
@@ -78,7 +78,7 @@
           <label style="display:flex;gap:11px;align-items:flex-start;margin-top:clamp(18px,2vw,26px);">
             <input type="checkbox" style="margin-top:3px;accent-color:#6E7A63;" required>
             <span style="font-size:12.5px;line-height:1.6;color:rgba(34,32,28,.6);">
-              I agree to Bois Saint-Jean holding these details in order to reply. See our <a href="/privacy" style="color:#6E7A63;border-bottom:1px solid rgba(110,122,99,.4);">privacy policy</a>.
+              I agree to Bois Saint-Jean holding these details in order to reply. See our <a href="/mockdesign/privacy" style="color:#6E7A63;border-bottom:1px solid rgba(110,122,99,.4);">privacy policy</a>.
             </span>
           </label>
 

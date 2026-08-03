@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T11a6,<div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px) clamp(30px,4vw,52px);max-width:900px;">
+2:T11fe,<div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px) clamp(30px,4vw,52px);max-width:900px;">
       <p class="section-tag">Stay</p>
       <h1 class="page-title">Four countryside homes within the estate</h1>
       <p class="page-subtitle">
@@ -13,8 +13,8 @@
       <div class="cards-grid" style="grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:clamp(24px,3.4vw,56px);">
         
         <!-- Farm Cottage -->
-        <a href="/farmhouse" class="card-item">
-          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/uploads/assets/estate/gallery/farm-cottage-004.webp');"></div>
+        <a href="/mockdesign/farmhouse" class="card-item">
+          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/mockdesign/uploads/assets/estate/gallery/farm-cottage-004.webp');"></div>
           <div style="display:flex;justify-content:space-between;align-items:baseline;gap:14px;margin:clamp(14px,1.6vw,20px) 0 8px;">
             <h2 style="margin:0;font-family:var(--font-heading);font-size:clamp(21px,2.1vw,30px);line-height:1.2;color:#22201C;">Farm Cottage</h2>
             <span style="font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(34,32,28,.5);white-space:nowrap;">9 bed · 15 guests</span>
@@ -24,8 +24,8 @@
         </a>
 
         <!-- Fouine Cottage -->
-        <a href="/granary" class="card-item">
-          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/uploads/assets/estate/gallery/fouine-cottage-074.webp');"></div>
+        <a href="/mockdesign/granary" class="card-item">
+          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/mockdesign/uploads/assets/estate/gallery/fouine-cottage-074.webp');"></div>
           <div style="display:flex;justify-content:space-between;align-items:baseline;gap:14px;margin:clamp(14px,1.6vw,20px) 0 8px;">
             <h2 style="margin:0;font-family:var(--font-heading);font-size:clamp(21px,2.1vw,30px);line-height:1.2;color:#22201C;">Fouine Cottage</h2>
             <span style="font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(34,32,28,.5);white-space:nowrap;">6 bed · 12 guests</span>
@@ -35,8 +35,8 @@
         </a>
 
         <!-- Maison des Écuries -->
-        <a href="/dairy" class="card-item">
-          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/uploads/assets/estate/gallery/maison-ecuries-012.webp');"></div>
+        <a href="/mockdesign/dairy" class="card-item">
+          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/mockdesign/uploads/assets/estate/gallery/maison-ecuries-012.webp');"></div>
           <div style="display:flex;justify-content:space-between;align-items:baseline;gap:14px;margin:clamp(14px,1.6vw,20px) 0 8px;">
             <h2 style="margin:0;font-family:var(--font-heading);font-size:clamp(21px,2.1vw,30px);line-height:1.2;color:#22201C;">Maison des Écuries</h2>
             <span style="font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(34,32,28,.5);white-space:nowrap;">2 bed · 7 guests</span>
@@ -46,8 +46,8 @@
         </a>
 
         <!-- Maison de la Vallée -->
-        <a href="/cottage" class="card-item">
-          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/uploads/assets/estate/gallery/maison-vallee-037.webp');"></div>
+        <a href="/mockdesign/cottage" class="card-item">
+          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/mockdesign/uploads/assets/estate/gallery/maison-vallee-037.webp');"></div>
           <div style="display:flex;justify-content:space-between;align-items:baseline;gap:14px;margin:clamp(14px,1.6vw,20px) 0 8px;">
             <h2 style="margin:0;font-family:var(--font-heading);font-size:clamp(21px,2.1vw,30px);line-height:1.2;color:#22201C;">Maison de la Vallée</h2>
             <span style="font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(34,32,28,.5);white-space:nowrap;">3 bed · 7 guests</span>

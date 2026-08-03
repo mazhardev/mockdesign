@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T23a1,<header class="venues-intro">
+2:T2493,<header class="venues-intro">
       <p class="section-tag">Spaces &amp; Venue Hire</p>
       <h1 class="page-title">A setting for every kind of gathering</h1>
       <p class="page-subtitle">
@@ -14,8 +14,8 @@
     </header>
 
     <section class="venue-feature" aria-labelledby="grange-title">
-      <button type="button" class="venue-feature-image" data-lightbox-src="/uploads/assets/estate/gallery/venues-007.webp" data-lightbox-caption="The Grange at Bois Saint-Jean">
-        <img src="/uploads/assets/estate/gallery/venues-007.webp" alt="The spacious timber-framed interior of The Grange" width="1600" height="1200" decoding="async">
+      <button type="button" class="venue-feature-image" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/venues-007.webp" data-lightbox-caption="The Grange at Bois Saint-Jean">
+        <img src="/mockdesign/uploads/assets/estate/gallery/venues-007.webp" alt="The spacious timber-framed interior of The Grange" width="1600" height="1200" decoding="async">
       </button>
       <div class="venue-feature-copy">
         <p class="venue-number">01 · The largest space</p>
@@ -27,7 +27,7 @@
           <div><dt>Seated</dt><dd>150</dd></div>
           <div><dt>Standing</dt><dd>200</dd></div>
         </dl>
-        <a href="/contact" class="card-link-arrow">Enquire about The Grange →</a>
+        <a href="/mockdesign/contact" class="card-link-arrow">Enquire about The Grange →</a>
       </div>
     </section>
 
@@ -39,8 +39,8 @@
 
       <div class="venue-cards">
         <article class="venue-card">
-          <button type="button" class="venue-card-image" data-lightbox-src="/uploads/assets/estate/gallery/venues-023.webp" data-lightbox-caption="Salle des Traqueurs">
-            <img src="/uploads/assets/estate/gallery/venues-023.webp" alt="The stone reception and dining room in Salle des Traqueurs" width="1600" height="1067" loading="lazy" decoding="async">
+          <button type="button" class="venue-card-image" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/venues-023.webp" data-lightbox-caption="Salle des Traqueurs">
+            <img src="/mockdesign/uploads/assets/estate/gallery/venues-023.webp" alt="The stone reception and dining room in Salle des Traqueurs" width="1600" height="1067" loading="lazy" decoding="async">
           </button>
           <div class="venue-card-copy">
             <p class="venue-number">02 · Indoor</p>
@@ -51,8 +51,8 @@
         </article>
 
         <article class="venue-card">
-          <button type="button" class="venue-card-image" data-lightbox-src="/uploads/assets/estate/gallery/venues-021.webp" data-lightbox-caption="The professional industrial kitchen">
-            <img src="/uploads/assets/estate/gallery/venues-021.webp" alt="The professional industrial kitchen at Bois Saint-Jean" width="1600" height="1067" loading="lazy" decoding="async">
+          <button type="button" class="venue-card-image" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/venues-021.webp" data-lightbox-caption="The professional industrial kitchen">
+            <img src="/mockdesign/uploads/assets/estate/gallery/venues-021.webp" alt="The professional industrial kitchen at Bois Saint-Jean" width="1600" height="1067" loading="lazy" decoding="async">
           </button>
           <div class="venue-card-copy">
             <p class="venue-number">03 · Catering</p>
@@ -64,17 +64,17 @@
 
         <article class="venue-card venue-card-bureau">
           <div class="venue-card-collage" aria-label="The Bureau facilities">
-            <button type="button" data-lightbox-src="/uploads/assets/estate/gallery/workspaces-008.webp" data-lightbox-caption="The Bureau kitchen">
-              <img src="/uploads/assets/estate/gallery/workspaces-008.webp" alt="The kitchen serving The Bureau" width="1600" height="1067" loading="lazy" decoding="async">
+            <button type="button" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/workspaces-008.webp" data-lightbox-caption="The Bureau kitchen">
+              <img src="/mockdesign/uploads/assets/estate/gallery/workspaces-008.webp" alt="The kitchen serving The Bureau" width="1600" height="1067" loading="lazy" decoding="async">
             </button>
-            <button type="button" data-lightbox-src="/uploads/assets/estate/gallery/workspaces-019.webp" data-lightbox-caption="The Bureau private bathroom">
-              <img src="/uploads/assets/estate/gallery/workspaces-019.webp" alt="The private bathroom at The Bureau" width="1600" height="1067" loading="lazy" decoding="async">
+            <button type="button" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/workspaces-019.webp" data-lightbox-caption="The Bureau private bathroom">
+              <img src="/mockdesign/uploads/assets/estate/gallery/workspaces-019.webp" alt="The private bathroom at The Bureau" width="1600" height="1067" loading="lazy" decoding="async">
             </button>
-            <button type="button" data-lightbox-src="/uploads/assets/estate/gallery/workspaces-017.webp" data-lightbox-caption="The Bureau waiting and lounge area">
-              <img src="/uploads/assets/estate/gallery/workspaces-017.webp" alt="The sunlit waiting and lounge area at The Bureau" width="1600" height="1052" loading="lazy" decoding="async">
+            <button type="button" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/workspaces-017.webp" data-lightbox-caption="The Bureau waiting and lounge area">
+              <img src="/mockdesign/uploads/assets/estate/gallery/workspaces-017.webp" alt="The sunlit waiting and lounge area at The Bureau" width="1600" height="1052" loading="lazy" decoding="async">
             </button>
-            <button type="button" data-lightbox-src="/uploads/assets/estate/gallery/workspaces-024.webp" data-lightbox-caption="Breakfast prepared at The Bureau">
-              <img src="/uploads/assets/estate/gallery/workspaces-024.webp" alt="Breakfast prepared for guests at The Bureau" width="1600" height="1600" loading="lazy" decoding="async">
+            <button type="button" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/workspaces-024.webp" data-lightbox-caption="Breakfast prepared at The Bureau">
+              <img src="/mockdesign/uploads/assets/estate/gallery/workspaces-024.webp" alt="Breakfast prepared for guests at The Bureau" width="1600" height="1600" loading="lazy" decoding="async">
             </button>
           </div>
           <div class="venue-card-copy">
@@ -86,8 +86,8 @@
         </article>
 
         <article class="venue-card">
-          <button type="button" class="venue-card-image" data-lightbox-src="/uploads/assets/estate/gallery/workspaces-002.webp" data-lightbox-caption="The dedicated conference room">
-            <img src="/uploads/assets/estate/gallery/workspaces-002.webp" alt="The dedicated conference room prepared for a meeting" width="1600" height="1067" loading="lazy" decoding="async">
+          <button type="button" class="venue-card-image" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/workspaces-002.webp" data-lightbox-caption="The dedicated conference room">
+            <img src="/mockdesign/uploads/assets/estate/gallery/workspaces-002.webp" alt="The dedicated conference room prepared for a meeting" width="1600" height="1067" loading="lazy" decoding="async">
           </button>
           <div class="venue-card-copy">
             <p class="venue-number">05 · Business</p>
@@ -98,8 +98,8 @@
         </article>
 
         <article class="venue-card">
-          <button type="button" class="venue-card-image" data-lightbox-src="/uploads/assets/estate/gallery/estate-060.webp" data-lightbox-caption="Outdoor event space within the estate">
-            <img src="/uploads/assets/estate/gallery/estate-060.webp" alt="A landscaped outdoor event space at Bois Saint-Jean" width="1600" height="1200" loading="lazy" decoding="async">
+          <button type="button" class="venue-card-image" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/estate-060.webp" data-lightbox-caption="Outdoor event space within the estate">
+            <img src="/mockdesign/uploads/assets/estate/gallery/estate-060.webp" alt="A landscaped outdoor event space at Bois Saint-Jean" width="1600" height="1200" loading="lazy" decoding="async">
           </button>
           <div class="venue-card-copy">
             <p class="venue-number">06 · Outdoors</p>
@@ -110,8 +110,8 @@
         </article>
 
         <article class="venue-card">
-          <button type="button" class="venue-card-image" data-lightbox-src="/uploads/assets/estate/gallery/estate-040.webp" data-lightbox-caption="The intimate outdoor setting near the wood-fired pizza area">
-            <img src="/uploads/assets/estate/gallery/estate-040.webp" alt="An intimate outdoor gathering place within the estate" width="1600" height="1200" loading="lazy" decoding="async">
+          <button type="button" class="venue-card-image" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/estate-040.webp" data-lightbox-caption="The intimate outdoor setting near the wood-fired pizza area">
+            <img src="/mockdesign/uploads/assets/estate/gallery/estate-040.webp" alt="An intimate outdoor gathering place within the estate" width="1600" height="1200" loading="lazy" decoding="async">
           </button>
           <div class="venue-card-copy">
             <p class="venue-number">07 · Outdoors</p>
@@ -127,7 +127,7 @@
       <p class="section-tag">Made around your event</p>
       <h2>Use one space, or bring the whole estate together.</h2>
       <p>Tell us what you are planning and we will suggest the combination of rooms, accommodation and outdoor settings that suits it best.</p>
-      <a href="/contact" class="btn-dark">Discuss your event</a>
+      <a href="/mockdesign/contact" class="btn-dark">Discuss your event</a>
     </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rqerdS5r-KY9mto9uNQ97"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
