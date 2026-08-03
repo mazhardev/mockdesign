@@ -1,0 +1,100 @@
+1:"$Sreact.fragment"
+4:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T15a6,<header class="faq-hero">
+      <div>
+        <p class="section-tag">FAQ &amp; House Rules</p>
+        <h1 class="page-title">A thoughtful way to share the estate</h1>
+      </div>
+      <p class="page-subtitle">
+        Bois Saint-Jean is a peaceful place shaped by woodland, wildlife and quiet. These simple guidelines help every guest enjoy that atmosphere while preserving it for the people, animals and landscape around them.
+      </p>
+    </header>
+
+    <div class="faq-estate-image">
+      <img src="/uploads/assets/estate/gallery/estate-004.webp" alt="A quiet avenue of mature trees at Bois Saint-Jean" width="1065" height="1600" decoding="async">
+    </div>
+
+    <section class="estate-respect" id="respecting-the-estate" aria-labelledby="respect-title">
+      <div class="estate-respect-heading">
+        <p class="section-tag">Respecting the Estate</p>
+        <h2 id="respect-title">Enjoy the freedom of the countryside, thoughtfully.</h2>
+      </div>
+      <div class="estate-respect-copy">
+        <p>
+          Guests are warmly invited to enjoy the beauty and tranquillity of Bois Saint-Jean. Each accommodation has its own designated outdoor areas, while paths through the estate offer a chance to experience the surrounding nature.
+        </p>
+        <p>
+          Unless the estate has been booked exclusively, other guests and activities may also be present. We therefore ask everyone to remain on the designated paths and within the areas intended for their accommodation, respecting the privacy of others and the natural environment.
+        </p>
+        <p>
+          This is not about limiting the experience. It is how we protect the quiet character of the estate and make it possible for everyone to feel at ease here.
+        </p>
+      </div>
+    </section>
+
+    <section class="respect-principles" aria-label="Ways to respect the estate">
+      <article>
+        <span>01</span>
+        <h3>Follow the paths</h3>
+        <p>Use the marked routes and the outdoor areas belonging to your accommodation so the surrounding land can remain undisturbed.</p>
+      </article>
+      <article>
+        <span>02</span>
+        <h3>Share the quiet</h3>
+        <p>Keep the peaceful atmosphere in mind, particularly outdoors, and allow other guests the privacy to enjoy their own part of the estate.</p>
+      </article>
+      <article>
+        <span>03</span>
+        <h3>Care for nature</h3>
+        <p>Observe wildlife from a respectful distance, leave plants and habitats as you find them, and take everything away with you.</p>
+      </article>
+    </section>
+
+    <section class="faq-main" aria-labelledby="questions-title">
+      <div class="faq-main-heading">
+        <p class="section-tag">Good to know</p>
+        <h2 id="questions-title">Before your stay</h2>
+        <p>Specific arrangements can vary by house and booking. We will confirm everything relevant to your visit before you arrive.</p>
+      </div>
+
+      <div class="faq-list">
+        <details open>
+          <summary>Is the whole estate private during my stay?</summary>
+          <p>No. Each house is private and has designated outdoor areas, but the wider estate may be shared with other guests or activities. The entire property is private only when it has been booked exclusively.</p>
+        </details>
+        <details>
+          <summary>Where can we spend time outdoors?</summary>
+          <p>You are welcome to use the garden, terrace or outdoor area assigned to your accommodation and to explore the designated estate paths. Your arrival information will make these areas clear.</p>
+        </details>
+        <details>
+          <summary>Can we explore the grounds?</summary>
+          <p>Yes—following the designated paths is a lovely way to experience the estate. Please avoid private, working or ecologically sensitive areas and ask us whenever you are unsure.</p>
+        </details>
+        <details>
+          <summary>Can we book the estate exclusively?</summary>
+          <p>Exclusive use can be discussed for retreats, events and larger private gatherings. Tell us about your plans and we will explain which houses and spaces can be combined.</p>
+        </details>
+        <details>
+          <summary>Can we organise an event or invite additional visitors?</summary>
+          <p>Please arrange events, workshops and additional visitors with us in advance. This allows us to prepare the right spaces, facilities and practical support while protecting the comfort of everyone on the estate.</p>
+        </details>
+        <details>
+          <summary>What information will we receive before arrival?</summary>
+          <p>We will provide the practical details relevant to your booking, including arrival arrangements, access, the areas connected to your house and anything else needed for a comfortable stay.</p>
+        </details>
+        <details>
+          <summary>How can we help protect the landscape and wildlife?</summary>
+          <p>Stay on the paths, keep noise gentle, avoid disturbing animals or habitats and leave no litter behind. Small acts of care make a meaningful difference in a place like this.</p>
+        </details>
+      </div>
+    </section>
+
+    <section class="faq-closing">
+      <p class="section-tag">Still wondering?</p>
+      <h2>Ask us before you arrive.</h2>
+      <p>Every stay and gathering is different. We are always happy to clarify the arrangements and help you enjoy the estate with confidence.</p>
+      <a href="/contact" class="btn-dark">Contact the Estate</a>
+    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rqerdS5r-KY9mto9uNQ97"}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null

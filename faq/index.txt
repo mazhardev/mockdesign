@@ -1,0 +1,117 @@
+1:"$Sreact.fragment"
+2:I[4481,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[39756,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[22016,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[78339,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+7:I[14020,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+8:I[80937,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+d:I[68027,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/_next/static/chunks/1nucxsu9n0esn.css","style"]
+9:T15a6,<header class="faq-hero">
+      <div>
+        <p class="section-tag">FAQ &amp; House Rules</p>
+        <h1 class="page-title">A thoughtful way to share the estate</h1>
+      </div>
+      <p class="page-subtitle">
+        Bois Saint-Jean is a peaceful place shaped by woodland, wildlife and quiet. These simple guidelines help every guest enjoy that atmosphere while preserving it for the people, animals and landscape around them.
+      </p>
+    </header>
+
+    <div class="faq-estate-image">
+      <img src="/uploads/assets/estate/gallery/estate-004.webp" alt="A quiet avenue of mature trees at Bois Saint-Jean" width="1065" height="1600" decoding="async">
+    </div>
+
+    <section class="estate-respect" id="respecting-the-estate" aria-labelledby="respect-title">
+      <div class="estate-respect-heading">
+        <p class="section-tag">Respecting the Estate</p>
+        <h2 id="respect-title">Enjoy the freedom of the countryside, thoughtfully.</h2>
+      </div>
+      <div class="estate-respect-copy">
+        <p>
+          Guests are warmly invited to enjoy the beauty and tranquillity of Bois Saint-Jean. Each accommodation has its own designated outdoor areas, while paths through the estate offer a chance to experience the surrounding nature.
+        </p>
+        <p>
+          Unless the estate has been booked exclusively, other guests and activities may also be present. We therefore ask everyone to remain on the designated paths and within the areas intended for their accommodation, respecting the privacy of others and the natural environment.
+        </p>
+        <p>
+          This is not about limiting the experience. It is how we protect the quiet character of the estate and make it possible for everyone to feel at ease here.
+        </p>
+      </div>
+    </section>
+
+    <section class="respect-principles" aria-label="Ways to respect the estate">
+      <article>
+        <span>01</span>
+        <h3>Follow the paths</h3>
+        <p>Use the marked routes and the outdoor areas belonging to your accommodation so the surrounding land can remain undisturbed.</p>
+      </article>
+      <article>
+        <span>02</span>
+        <h3>Share the quiet</h3>
+        <p>Keep the peaceful atmosphere in mind, particularly outdoors, and allow other guests the privacy to enjoy their own part of the estate.</p>
+      </article>
+      <article>
+        <span>03</span>
+        <h3>Care for nature</h3>
+        <p>Observe wildlife from a respectful distance, leave plants and habitats as you find them, and take everything away with you.</p>
+      </article>
+    </section>
+
+    <section class="faq-main" aria-labelledby="questions-title">
+      <div class="faq-main-heading">
+        <p class="section-tag">Good to know</p>
+        <h2 id="questions-title">Before your stay</h2>
+        <p>Specific arrangements can vary by house and booking. We will confirm everything relevant to your visit before you arrive.</p>
+      </div>
+
+      <div class="faq-list">
+        <details open>
+          <summary>Is the whole estate private during my stay?</summary>
+          <p>No. Each house is private and has designated outdoor areas, but the wider estate may be shared with other guests or activities. The entire property is private only when it has been booked exclusively.</p>
+        </details>
+        <details>
+          <summary>Where can we spend time outdoors?</summary>
+          <p>You are welcome to use the garden, terrace or outdoor area assigned to your accommodation and to explore the designated estate paths. Your arrival information will make these areas clear.</p>
+        </details>
+        <details>
+          <summary>Can we explore the grounds?</summary>
+          <p>Yes—following the designated paths is a lovely way to experience the estate. Please avoid private, working or ecologically sensitive areas and ask us whenever you are unsure.</p>
+        </details>
+        <details>
+          <summary>Can we book the estate exclusively?</summary>
+          <p>Exclusive use can be discussed for retreats, events and larger private gatherings. Tell us about your plans and we will explain which houses and spaces can be combined.</p>
+        </details>
+        <details>
+          <summary>Can we organise an event or invite additional visitors?</summary>
+          <p>Please arrange events, workshops and additional visitors with us in advance. This allows us to prepare the right spaces, facilities and practical support while protecting the comfort of everyone on the estate.</p>
+        </details>
+        <details>
+          <summary>What information will we receive before arrival?</summary>
+          <p>We will provide the practical details relevant to your booking, including arrival arrangements, access, the areas connected to your house and anything else needed for a comfortable stay.</p>
+        </details>
+        <details>
+          <summary>How can we help protect the landscape and wildlife?</summary>
+          <p>Stay on the paths, keep noise gentle, avoid disturbing animals or habitats and leave no litter behind. Small acts of care make a meaningful difference in a place like this.</p>
+        </details>
+      </div>
+    </section>
+
+    <section class="faq-closing">
+      <p class="section-tag">Still wondering?</p>
+      <h2>Ask us before you arrive.</h2>
+      <p>Every stay and gathering is different. We are always happy to clarify the arrangements and help you enjoy the estate with confidence.</p>
+      <a href="/contact" class="btn-dark">Contact the Estate</a>
+    </section>0:{"P":null,"c":["","faq",""],"q":"","i":false,"f":[[["",{"children":["faq",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1nucxsu9n0esn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/13kh6g18m-r-0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"style":{"--hero-banner-image":"url('/uploads/assets/estate/gallery/estate-006.webp')","--workspace-hero-image":"url('/uploads/assets/estate/gallery/workspaces-001.webp')","--contact-image":"url('/uploads/assets/estate/gallery/estate-001.webp')","--retreats-hero-image":"url('/uploads/assets/estate/gallery/estate-006.webp')","--retreats-journey-image":"url('/uploads/assets/estate/gallery/venues-020.webp')"},"children":["$","div",null,{"className":"site-wrapper","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"children":[["$","p",null,{"className":"footer-brand","children":"BOIS SAINT-JEAN"}],["$","p",null,{"className":"footer-sub","children":"Estate · Belgian Ardennes"}]]}],["$","div",null,{"className":"footer-col","children":[["$","$L5",null,{"href":"/about","children":"About"}],["$","$L5",null,{"href":"/stay","children":"Stay"}],["$","$L5",null,{"href":"/spaces","children":"Spaces & Venue Hire"}]]}],["$","div",null,{"className":"footer-col","children":[["$","$L5",null,{"href":"/retreats","children":"Retreats & Workshops"}],["$","$L5",null,{"href":"/gallery","children":"Gallery"}],["$","$L5",null,{"href":"/faq","children":"FAQ & House Rules"}],["$","$L5",null,{"href":"/contact","children":"Contact"}]]}],["$","div",null,{"children":[["$","a",null,{"href":"mailto:location@boisstjean.be","style":{"fontSize":13,"color":"rgba(247,244,238,.62)"},"children":"location@boisstjean.be"}],["$","a",null,{"href":"tel:+32491559181","style":{"display":"block","marginTop":10,"fontSize":13,"color":"rgba(247,244,238,.45)"},"children":"+32 491 55 91 81 · Victoire Verdays"}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","p",null,{"className":"footer-copy","children":"© 2026 Bois Saint-Jean Estate. All rights reserved."}],["$","div",null,{"className":"footer-legal-links","children":[["$","$L5",null,{"href":"/privacy","children":"Privacy policy"}],["$","$L5",null,{"href":"/privacy","children":"Cookie policy"}]]}]]}]]}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$9"}}],null,"$La"]}],{},null,false,null]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"rqerdS5r-KY9mto9uNQ97"}
+f:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+15:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+12:[]
+b:"$W12"
+c:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],null]}]
+e:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1nucxsu9n0esn.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+16:[["$","title","0",{"children":"FAQ & House Rules | Bois Saint-Jean"}],["$","meta","1",{"name":"description","content":"Practical guidance for enjoying Bois Saint-Jean respectfully, including shared outdoor areas, estate privacy, nature and exclusive bookings."}]]
