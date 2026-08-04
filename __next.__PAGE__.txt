@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T20ce,<!-- Hero Section -->
+2:T20d2,<!-- Hero Section -->
     <section class="hero-banner">
       <div class="hero-overlay"></div>
       <div class="hero-badge">Private Countryside Estate</div>
@@ -27,7 +27,7 @@
     <section style="padding:0 clamp(20px,5vw,84px) clamp(52px,8vw,124px);">
       <div class="cards-grid">
         <a href="/mockdesign/stay" class="card-item">
-          <div class="card-img-wrap" style="background-image:url('/mockdesign/uploads/assets/estate/gallery/fouine-cottage-074.webp');"></div>
+          <div class="card-img-wrap" style="background-image:url('/mockdesign/uploads/assets/estate/gallery/fouine-cottage-017.webp');"></div>
           <h3 class="card-title">Stay</h3>
           <p class="card-text">Four countryside homes designed for rest, sleeping seven to fifteen.</p>
           <span class="card-link-arrow">The houses →</span>
@@ -63,11 +63,11 @@
 
     <!-- Photo Strip Showcase -->
     <section>
-      <div style="position:relative;height:clamp(300px,44vw,560px);background:url('/mockdesign/uploads/assets/estate/gallery/estate-006.webp') center/cover no-repeat #E5DFD3;"></div>
+      <div style="position:relative;height:clamp(300px,44vw,560px);background:url('/mockdesign/uploads/assets/estate/gallery/estate-013.webp') center/cover no-repeat #E5DFD3;"></div>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:clamp(6px,.8vw,12px);padding:clamp(6px,.8vw,12px) 0 0;">
         <div style="aspect-ratio:4/3;background:url('/mockdesign/uploads/assets/estate/gallery/estate-025.webp') center/cover no-repeat #E5DFD3;"></div>
         <div style="aspect-ratio:4/3;background:url('/mockdesign/uploads/assets/estate/gallery/estate-028.webp') center/cover no-repeat #E5DFD3;"></div>
-        <div style="aspect-ratio:4/3;background:url('/mockdesign/uploads/assets/estate/gallery/estate-004.webp') center/cover no-repeat #E5DFD3;"></div>
+        <div style="aspect-ratio:4/3;background:url('/mockdesign/uploads/assets/estate/gallery/workspaces-024.webp') center/cover no-repeat #E5DFD3;"></div>
       </div>
       <div style="padding:clamp(26px,3.4vw,44px) clamp(20px,5vw,84px) clamp(52px,8vw,124px);text-align:center;">
         <a href="/mockdesign/gallery" class="card-link-arrow" style="font-size:11px;">View the gallery →</a>
@@ -118,6 +118,6 @@
         We answer every enquiry personally, usually within a day.
       </p>
       <a href="/mockdesign/contact" class="btn-dark">Make an Enquiry</a>
-    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rqerdS5r-KY9mto9uNQ97"}
+    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JwRW_ZjwdIKr6eMyddoRp"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

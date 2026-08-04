@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T20eb,<div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px) clamp(32px,4vw,56px);max-width:1000px;">
+2:T20ef,<div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px) clamp(32px,4vw,56px);max-width:1000px;">
       <p class="section-tag">The Estate</p>
       <h1 class="page-title">A private estate where nature takes centre stage</h1>
       <p class="page-subtitle">
@@ -86,9 +86,9 @@
 
     <!-- Triple Image Grid -->
     <div style="padding:0 clamp(20px,5vw,84px) clamp(48px,7vw,110px);display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:clamp(20px,2.6vw,44px);">
-      <div style="position:relative;aspect-ratio:1;background:url('/mockdesign/uploads/assets/estate/gallery/estate-006.webp') center/cover no-repeat #E5DFD3;"></div>
-      <div style="position:relative;aspect-ratio:1;background:url('/mockdesign/uploads/assets/estate/gallery/estate-063.webp') center/cover no-repeat #E5DFD3;"></div>
-      <div style="position:relative;aspect-ratio:1;background:url('/mockdesign/uploads/assets/estate/gallery/estate-062.webp') center/cover no-repeat #E5DFD3;"></div>
+      <div style="position:relative;aspect-ratio:1;background:url('/mockdesign/uploads/assets/estate/gallery/estate-014.webp') center/cover no-repeat #E5DFD3;"></div>
+      <div style="position:relative;aspect-ratio:1;background:url('/mockdesign/uploads/assets/estate/gallery/workspaces-001.webp') center/cover no-repeat #E5DFD3;"></div>
+      <div style="position:relative;aspect-ratio:1;background:url('/mockdesign/uploads/assets/estate/gallery/venues-026.webp') center/cover no-repeat #E5DFD3;"></div>
     </div>
 
     <!-- Closing -->
@@ -99,6 +99,6 @@
       <p style="margin:0 auto;max-width:26ch;font-family:var(--font-heading);font-size:clamp(24px,3.4vw,48px);line-height:1.32;color:#F7F4EE;text-wrap:balance;">
         Welcome to Bois Saint-Jean.
       </p>
-    </div>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"rqerdS5r-KY9mto9uNQ97"}
+    </div>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JwRW_ZjwdIKr6eMyddoRp"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
