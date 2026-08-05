@@ -170,6 +170,6 @@
       <h2>No two gatherings here need to look the same.</h2>
       <p>We are happy to discuss every individual requirement and create the combination of spaces, stays, food and support that brings your idea to life.</p>
       <a href="/mockdesign/contact" class="btn-dark">Plan Your Retreat</a>
-    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gTpTH6sGNCwIHdiVSW7JZ"}
+    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Gn9JsglYrjqgLvkZmZwOC"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
