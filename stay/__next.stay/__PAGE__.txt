@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T1248,<div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px) clamp(30px,4vw,52px);max-width:900px;">
+2:T11f0,<div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px) clamp(30px,4vw,52px);max-width:900px;">
       <p class="section-tag">Stay</p>
       <h1 class="page-title">Four countryside homes within the estate</h1>
       <p class="page-subtitle">
@@ -57,6 +57,6 @@
         </a>
 
       </div>
-    </div>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JwRW_ZjwdIKr6eMyddoRp"}
+    </div>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gTpTH6sGNCwIHdiVSW7JZ"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

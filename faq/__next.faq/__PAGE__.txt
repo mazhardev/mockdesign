@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T15c2,<header class="faq-hero">
+2:T25b2,<header class="faq-hero">
       <div>
         <p class="section-tag">FAQ &amp; House Rules</p>
         <h1 class="page-title">A thoughtful way to share the estate</h1>
@@ -51,7 +51,96 @@
       </article>
     </section>
 
-    <section class="faq-main" aria-labelledby="questions-title">
+    <section class="house-rules" aria-labelledby="house-rules-title">
+        <div class="house-rules-heading">
+          <div>
+            <p class="section-tag">House rules</p>
+            <h2 id="house-rules-title">A few simple ways to care for the peace of the estate.</h2>
+          </div>
+          <p>
+            These practical arrangements help protect the comfort of our guests, our neighbours and the surrounding landscape. Thank you for keeping them in mind throughout your stay.
+          </p>
+        </div>
+
+        <div class="house-rules-grid">
+          <article>
+            <span>01</span>
+            <div>
+              <h3>Registered guests only</h3>
+              <p>The accommodation is reserved for the guests included in the booking. Parties, open-invitation gatherings and bachelor or bachelorette celebrations are not permitted. Any separately arranged estate event must be agreed with us in advance.</p>
+            </div>
+          </article>
+          <article>
+            <span>02</span>
+            <div>
+              <h3>Stay on marked paths</h3>
+              <p>Please use the marked routes and designated outdoor areas. For safety and conservation, do not enter woodland or lakeside areas away from these routes, or collect firewood, mushrooms, berries or plants.</p>
+            </div>
+          </article>
+          <article>
+            <span>03</span>
+            <div>
+              <h3>Keep the atmosphere peaceful</h3>
+              <p>Please keep voices and general noise at a considerate level, especially outdoors and during the evening, so neighbours and other guests can enjoy the same tranquillity.</p>
+            </div>
+          </article>
+          <article>
+            <span>04</span>
+            <div>
+              <h3>Music indoors only</h3>
+              <p>Amplified speakers and sound systems may not be used outdoors. Indoors, please keep music low enough that it cannot be heard beyond your accommodation.</p>
+            </div>
+          </article>
+          <article>
+            <span>05</span>
+            <div>
+              <h3>Sort waste carefully</h3>
+              <p>Please use the bins provided and follow the waste-sorting and packaging instructions in your accommodation. This helps us care for the estate responsibly.</p>
+            </div>
+          </article>
+          <article>
+            <span>06</span>
+            <div>
+              <h3>Use designated parking</h3>
+              <p>Please park only in the spaces assigned to your accommodation and keep public roads, entrances and neighbouring private access clear.</p>
+            </div>
+          </article>
+          <article>
+            <span>07</span>
+            <div>
+              <h3>Respect house capacity</h3>
+              <p>For everyone's comfort and safety, the number of overnight guests must not exceed the confirmed capacity of the accommodation.</p>
+            </div>
+          </article>
+          <article>
+            <span>08</span>
+            <div>
+              <h3>No pets</h3>
+              <p>Pets are not permitted in the accommodation or elsewhere on the property. Thank you for helping us protect the wildlife and animals already living on the estate.</p>
+            </div>
+          </article>
+          <article>
+            <span>09</span>
+            <div>
+              <h3>No fireworks or gunshots</h3>
+              <p>Fireworks, firecrackers and gunshots are not permitted anywhere on the estate, for the safety and well-being of guests, neighbours, wildlife and animals.</p>
+            </div>
+          </article>
+          <article>
+            <span>10</span>
+            <div>
+              <h3>Smoke outdoors only</h3>
+              <p>All interiors are non-smoking. If you smoke outdoors, please use the container provided and make sure every cigarette is fully extinguished.</p>
+            </div>
+          </article>
+        </div>
+
+        <p class="house-rules-note">
+          If anything is unclear, please ask us before or during your stay. We are always happy to help.
+        </p>
+      </section>
+
+      <section class="faq-main" aria-labelledby="questions-title">
       <div class="faq-main-heading">
         <p class="section-tag">Good to know</p>
         <h2 id="questions-title">Before your stay</h2>
@@ -95,6 +184,6 @@
       <h2>Ask us before you arrive.</h2>
       <p>Every stay and gathering is different. We are always happy to clarify the arrangements and help you enjoy the estate with confidence.</p>
       <a href="/mockdesign/contact" class="btn-dark">Contact the Estate</a>
-    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JwRW_ZjwdIKr6eMyddoRp"}
+    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gTpTH6sGNCwIHdiVSW7JZ"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

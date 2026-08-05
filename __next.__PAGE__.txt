@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T20d2,<!-- Hero Section -->
+2:T2043,<!-- Hero Section -->
     <section class="hero-banner">
       <div class="hero-overlay"></div>
       <div class="hero-badge">Private Countryside Estate</div>
@@ -118,6 +118,6 @@
         We answer every enquiry personally, usually within a day.
       </p>
       <a href="/mockdesign/contact" class="btn-dark">Make an Enquiry</a>
-    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JwRW_ZjwdIKr6eMyddoRp"}
+    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gTpTH6sGNCwIHdiVSW7JZ"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

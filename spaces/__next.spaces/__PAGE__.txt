@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T2493,<header class="venues-intro">
+2:T23a1,<header class="venues-intro">
       <p class="section-tag">Spaces &amp; Venue Hire</p>
       <h1 class="page-title">A setting for every kind of gathering</h1>
       <p class="page-subtitle">
@@ -128,6 +128,6 @@
       <h2>Use one space, or bring the whole estate together.</h2>
       <p>Tell us what you are planning and we will suggest the combination of rooms, accommodation and outdoor settings that suits it best.</p>
       <a href="/mockdesign/contact" class="btn-dark">Discuss your event</a>
-    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"JwRW_ZjwdIKr6eMyddoRp"}
+    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gTpTH6sGNCwIHdiVSW7JZ"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
