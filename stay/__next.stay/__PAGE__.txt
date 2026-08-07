@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T11f0,<div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px) clamp(30px,4vw,52px);max-width:900px;">
+2:T1152,<div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px) clamp(30px,4vw,52px);max-width:900px;">
       <p class="section-tag">Stay</p>
       <h1 class="page-title">Four countryside homes within the estate</h1>
       <p class="page-subtitle">
@@ -13,50 +13,50 @@
       <div class="cards-grid" style="grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:clamp(24px,3.4vw,56px);">
         
         <!-- Farm Cottage -->
-        <a href="/mockdesign/farmhouse" class="card-item">
-          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/mockdesign/uploads/assets/estate/gallery/farm-cottage-004.webp');"></div>
+        <a href="/farmhouse" class="card-item">
+          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/uploads/assets/estate/gallery/farm-cottage-058.webp');"></div>
           <div style="display:flex;justify-content:space-between;align-items:baseline;gap:14px;margin:clamp(14px,1.6vw,20px) 0 8px;">
             <h2 style="margin:0;font-family:var(--font-heading);font-size:clamp(21px,2.1vw,30px);line-height:1.2;color:#22201C;">Farm Cottage</h2>
-            <span style="font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(34,32,28,.5);white-space:nowrap;">8 bedrooms · 16 guests</span>
+            <span style="font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(34,32,28,.5);white-space:nowrap;">8 bedrooms · 15 guests</span>
           </div>
-          <p class="card-text" style="max-width:44ch;">An authentic Ardennes house in La Roche-en-Ardenne — a fireplace to gather round, a large terrace for shared meals, and room for a group of sixteen.</p>
+          <p class="card-text" style="max-width:44ch;">Sleeps 15 guests across 8 bedrooms and 12 beds, with 4 bathrooms, 2 kitchens, 2 living rooms and 1 games room.</p>
           <span class="card-link-arrow">Discover →</span>
         </a>
 
         <!-- Fouine Cottage -->
-        <a href="/mockdesign/granary" class="card-item">
-          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/mockdesign/uploads/assets/estate/gallery/fouine-cottage-017.webp');"></div>
+        <a href="/granary" class="card-item">
+          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/uploads/assets/estate/gallery/fouine-cottage-017.webp');"></div>
           <div style="display:flex;justify-content:space-between;align-items:baseline;gap:14px;margin:clamp(14px,1.6vw,20px) 0 8px;">
             <h2 style="margin:0;font-family:var(--font-heading);font-size:clamp(21px,2.1vw,30px);line-height:1.2;color:#22201C;">Fouine Cottage</h2>
-            <span style="font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(34,32,28,.5);white-space:nowrap;">6 bed · 12 guests</span>
+            <span style="font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(34,32,28,.5);white-space:nowrap;">6 bedrooms · 11 guests</span>
           </div>
-          <p class="card-text" style="max-width:44ch;">A spacious six-bedroom family house with five bathrooms, a fireplace, games room, and private garden with barbecue — close to La Roche-en-Ardenne.</p>
+          <p class="card-text" style="max-width:44ch;">Sleeps 11 guests across 6 bedrooms and 10 beds, with 5 bathrooms, 1 kitchen, 1 living room and 1 games room.</p>
           <span class="card-link-arrow">Discover →</span>
         </a>
 
         <!-- Maison des Écuries -->
-        <a href="/mockdesign/dairy" class="card-item">
-          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/mockdesign/uploads/assets/estate/gallery/maison-ecuries-012.webp');"></div>
+        <a href="/dairy" class="card-item">
+          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/uploads/assets/estate/gallery/maison-ecuries-012.webp');"></div>
           <div style="display:flex;justify-content:space-between;align-items:baseline;gap:14px;margin:clamp(14px,1.6vw,20px) 0 8px;">
             <h2 style="margin:0;font-family:var(--font-heading);font-size:clamp(21px,2.1vw,30px);line-height:1.2;color:#22201C;">Maison des Écuries</h2>
             <span style="font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(34,32,28,.5);white-space:nowrap;">4 bedrooms · 7 guests</span>
           </div>
-          <p class="card-text" style="max-width:44ch;">A renovated former stable for families and small groups — super king-size beds, an open fireplace and forest views on every side.</p>
+          <p class="card-text" style="max-width:44ch;">Sleeps 7 guests across 4 bedrooms and 4 beds, with 2 bathrooms, 1 kitchen and 1 living room.</p>
           <span class="card-link-arrow">Discover →</span>
         </a>
 
         <!-- Maison de la Vallée -->
-        <a href="/mockdesign/cottage" class="card-item">
-          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/mockdesign/uploads/assets/estate/gallery/maison-vallee-028.webp');"></div>
+        <a href="/cottage" class="card-item">
+          <div class="card-img-wrap" style="aspect-ratio:3/2;background-image:url('/uploads/assets/estate/gallery/maison-vallee-028.webp');"></div>
           <div style="display:flex;justify-content:space-between;align-items:baseline;gap:14px;margin:clamp(14px,1.6vw,20px) 0 8px;">
             <h2 style="margin:0;font-family:var(--font-heading);font-size:clamp(21px,2.1vw,30px);line-height:1.2;color:#22201C;">Maison de la Vallée</h2>
-            <span style="font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(34,32,28,.5);white-space:nowrap;">4 bedrooms · 8 guests</span>
+            <span style="font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(34,32,28,.5);white-space:nowrap;">3 bedrooms · 7 guests</span>
           </div>
-          <p class="card-text" style="max-width:44ch;">A characterful old Ardennes villa, fully renovated — a fenced private garden, a terrace for long lunches, and a stream along the back.</p>
+          <p class="card-text" style="max-width:44ch;">Sleeps 7 guests across 3 bedrooms and 5 beds, with 2 bathrooms, 1 kitchen and 1 living room.</p>
           <span class="card-link-arrow">Discover →</span>
         </a>
 
       </div>
-    </div>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Gn9JsglYrjqgLvkZmZwOC"}
+    </div>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eXG385pjzl-PbmzxM3n40"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

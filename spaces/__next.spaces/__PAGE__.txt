@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T23a1,<header class="venues-intro">
+2:T27a3,<header class="venues-intro">
       <p class="section-tag">Spaces &amp; Venue Hire</p>
       <h1 class="page-title">A setting for every kind of gathering</h1>
       <p class="page-subtitle">
@@ -14,8 +14,8 @@
     </header>
 
     <section class="venue-feature" aria-labelledby="grange-title">
-      <button type="button" class="venue-feature-image" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/venues-007.webp" data-lightbox-caption="The Grange at Bois Saint-Jean">
-        <img src="/mockdesign/uploads/assets/estate/gallery/venues-007.webp" alt="The spacious timber-framed interior of The Grange" width="1600" height="1200" decoding="async">
+      <button type="button" class="venue-feature-image" data-lightbox-src="/uploads/assets/estate/gallery/venues-007.webp" data-lightbox-caption="The Grange at Bois Saint-Jean">
+        <img src="/uploads/assets/estate/gallery/venues-007.webp" alt="The spacious timber-framed interior of The Grange" width="1600" height="1200" decoding="async">
       </button>
       <div class="venue-feature-copy">
         <p class="venue-number">01 · The largest space</p>
@@ -24,10 +24,10 @@
           A spacious and versatile venue beneath an impressive timber frame. The Grange adapts beautifully to receptions, conferences, workshops, retreats and private events, with enough scale to feel impressive and enough character to remain warm.
         </p>
         <dl class="venue-capacity" aria-label="The Grange capacity">
-          <div><dt>Seated</dt><dd>150</dd></div>
-          <div><dt>Standing</dt><dd>200</dd></div>
+          <div><dt>Capacity</dt><dd>150</dd></div>
+          <div><dt>Area</dt><dd>200 m²</dd></div>
         </dl>
-        <a href="/mockdesign/contact" class="card-link-arrow">Enquire about The Grange →</a>
+        <a href="/contact" class="card-link-arrow">Enquire about The Grange →</a>
       </div>
     </section>
 
@@ -39,70 +39,82 @@
 
       <div class="venue-cards">
         <article class="venue-card">
-          <button type="button" class="venue-card-image" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/venues-023.webp" data-lightbox-caption="Salle des Traqueurs">
-            <img src="/mockdesign/uploads/assets/estate/gallery/venues-023.webp" alt="The stone reception and dining room in Salle des Traqueurs" width="1600" height="1067" loading="lazy" decoding="async">
+          <button type="button" class="venue-card-image" data-lightbox-src="/uploads/assets/estate/gallery/venues-023.webp" data-lightbox-caption="Salle des Traqueurs">
+            <img src="/uploads/assets/estate/gallery/venues-023.webp" alt="The stone reception and dining room in Salle des Traqueurs" width="1600" height="1067" loading="lazy" decoding="async">
           </button>
           <div class="venue-card-copy">
             <p class="venue-number">02 · Indoor</p>
             <h3>Salle des Traqueurs</h3>
-            <p>A characterful reception and dining space for shared meals, meetings, workshops and group activities. Stone walls and a generous layout give the room a relaxed sense of occasion.</p>
-            <p class="venue-card-meta">Welcomes up to 90 guests</p>
+            <p>A characterful reception and dining space beneath traditional vaulted ceilings. Stone walls, a fireplace and a practical bar area with a sink make it equally welcoming for shared meals, meetings, workshops and group activities.</p>
+            <p class="venue-card-meta">Capacity 90 · fireplace · bar area · free Wi-Fi</p>
           </div>
         </article>
 
         <article class="venue-card">
-          <button type="button" class="venue-card-image" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/venues-021.webp" data-lightbox-caption="The professional industrial kitchen">
-            <img src="/mockdesign/uploads/assets/estate/gallery/venues-021.webp" alt="The professional industrial kitchen at Bois Saint-Jean" width="1600" height="1067" loading="lazy" decoding="async">
+          <button type="button" class="venue-card-image" data-lightbox-src="/uploads/assets/estate/gallery/venues-021.webp" data-lightbox-caption="The professional industrial kitchen">
+            <img src="/uploads/assets/estate/gallery/venues-021.webp" alt="The professional industrial kitchen at Bois Saint-Jean" width="1600" height="1067" loading="lazy" decoding="async">
           </button>
           <div class="venue-card-copy">
             <p class="venue-number">03 · Catering</p>
             <h3>Professional Industrial Kitchen</h3>
-            <p>A substantial professional kitchen available for retreats, catered events and culinary programmes. It supports everything from intimate group dining to larger receptions across the estate.</p>
-            <p class="venue-card-meta">Professional equipment · event-ready</p>
+            <p>A spacious shared kitchen with professional equipment, generous worktops and everything needed for retreats, catered events and hands-on cooking classes.</p>
+            <p class="venue-card-meta">Professional equipment · cooking classes · event catering</p>
           </div>
         </article>
 
         <article class="venue-card venue-card-bureau">
           <div class="venue-card-collage" aria-label="The Bureau facilities">
-            <button type="button" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/workspaces-008.webp" data-lightbox-caption="The Bureau kitchen">
-              <img src="/mockdesign/uploads/assets/estate/gallery/workspaces-008.webp" alt="The kitchen serving The Bureau" width="1600" height="1067" loading="lazy" decoding="async">
+            <button type="button" data-lightbox-src="/uploads/assets/estate/gallery/workspaces-008.webp" data-lightbox-caption="The Bureau kitchen">
+              <img src="/uploads/assets/estate/gallery/workspaces-008.webp" alt="The kitchen serving The Bureau" width="1600" height="1067" loading="lazy" decoding="async">
             </button>
-            <button type="button" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/workspaces-019.webp" data-lightbox-caption="The Bureau private bathroom">
-              <img src="/mockdesign/uploads/assets/estate/gallery/workspaces-019.webp" alt="The private bathroom at The Bureau" width="1600" height="1067" loading="lazy" decoding="async">
+            <button type="button" data-lightbox-src="/uploads/assets/estate/gallery/workspaces-019.webp" data-lightbox-caption="The Bureau private bathroom">
+              <img src="/uploads/assets/estate/gallery/workspaces-019.webp" alt="The private bathroom at The Bureau" width="1600" height="1067" loading="lazy" decoding="async">
             </button>
-            <button type="button" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/workspaces-017.webp" data-lightbox-caption="The Bureau waiting and lounge area">
-              <img src="/mockdesign/uploads/assets/estate/gallery/workspaces-017.webp" alt="The sunlit waiting and lounge area at The Bureau" width="1600" height="1052" loading="lazy" decoding="async">
+            <button type="button" data-lightbox-src="/uploads/assets/estate/gallery/workspaces-017.webp" data-lightbox-caption="The Bureau waiting and lounge area">
+              <img src="/uploads/assets/estate/gallery/workspaces-017.webp" alt="The sunlit waiting and lounge area at The Bureau" width="1600" height="1052" loading="lazy" decoding="async">
             </button>
-            <button type="button" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/workspaces-024.webp" data-lightbox-caption="Breakfast prepared at The Bureau">
-              <img src="/mockdesign/uploads/assets/estate/gallery/workspaces-024.webp" alt="Breakfast prepared for guests at The Bureau" width="1600" height="1600" loading="lazy" decoding="async">
+            <button type="button" data-lightbox-src="/uploads/assets/estate/gallery/workspaces-024.webp" data-lightbox-caption="Breakfast prepared at The Bureau">
+              <img src="/uploads/assets/estate/gallery/workspaces-024.webp" alt="Breakfast prepared for guests at The Bureau" width="1600" height="1600" loading="lazy" decoding="async">
             </button>
           </div>
           <div class="venue-card-copy">
             <p class="venue-number">04 · Meetings &amp; workshops</p>
             <h3>The Bureau</h3>
-            <p>A calm, self-contained setting for meetings, workshops and smaller conferences, with its own kitchen, bathroom and welcoming lounge area. Breakfast and catering can be arranged around the day.</p>
-            <p class="venue-card-meta">Independent facilities · flexible format</p>
+            <p>A dedicated building for meetings, workshops and smaller conferences, with private parking, a fully equipped kitchen, a private bathroom and two exclusive lounge areas. Breakfast and catering can be arranged around the day.</p>
+            <p class="venue-card-meta">Combined capacity 30 · free high-speed Wi-Fi · private parking</p>
           </div>
         </article>
 
         <article class="venue-card">
-          <button type="button" class="venue-card-image" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/workspaces-002.webp" data-lightbox-caption="The dedicated conference room">
-            <img src="/mockdesign/uploads/assets/estate/gallery/workspaces-002.webp" alt="The dedicated conference room prepared for a meeting" width="1600" height="1067" loading="lazy" decoding="async">
+          <button type="button" class="venue-card-image" data-lightbox-src="/uploads/assets/estate/gallery/workspaces-010.webp" data-lightbox-caption="The Wood Meeting Room">
+            <img src="/uploads/assets/estate/gallery/workspaces-010.webp" alt="The Wood Meeting Room beneath its exposed timber frame" width="1600" height="1067" loading="lazy" decoding="async">
           </button>
           <div class="venue-card-copy">
             <p class="venue-number">05 · Business</p>
-            <h3>Conference Room</h3>
-            <p>A dedicated room designed for concentrated discussion, presentations and collaborative work. Natural light and practical meeting facilities create a professional setting without losing the warmth of the estate.</p>
-            <p class="venue-card-meta">Meetings · strategy days · conferences</p>
+            <h3>Sand &amp; Wood Meeting Rooms</h3>
+            <p>Two distinct rooms, each welcoming up to 15 people. The light-filled Sand room and timber-framed Wood room both include a connected display, stationery and comfortable seating; the Wood room also has its own lounge.</p>
+            <p class="venue-card-meta">15 people per room · connected displays · stationery</p>
           </div>
         </article>
 
         <article class="venue-card">
-          <button type="button" class="venue-card-image" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/estate-060.webp" data-lightbox-caption="Outdoor event space within the estate">
-            <img src="/mockdesign/uploads/assets/estate/gallery/estate-060.webp" alt="A landscaped outdoor event space at Bois Saint-Jean" width="1600" height="1200" loading="lazy" decoding="async">
+          <button type="button" class="venue-card-image" data-lightbox-src="/uploads/assets/ceramics/ceramic-039.webp" data-lightbox-caption="The Ceramic Workshop at Bois Saint-Jean">
+            <img src="/uploads/assets/ceramics/ceramic-039.webp" alt="The ceramic workshop prepared for a small group" width="2200" height="1466" loading="lazy" decoding="async">
           </button>
           <div class="venue-card-copy">
-            <p class="venue-number">06 · Outdoors</p>
+            <p class="venue-number">06 · Creative workshops</p>
+            <h3>Ceramics Workshop</h3>
+            <p>A welcoming studio where beginners and experienced makers can design their own pieces or decorate ready-to-paint ceramics, with personalised guidance throughout the session.</p>
+            <p class="venue-card-meta">Small groups of 4–6 · price on request</p>
+          </div>
+        </article>
+
+        <article class="venue-card">
+          <button type="button" class="venue-card-image" data-lightbox-src="/uploads/assets/estate/gallery/estate-060.webp" data-lightbox-caption="Outdoor event space within the estate">
+            <img src="/uploads/assets/estate/gallery/estate-060.webp" alt="A landscaped outdoor event space at Bois Saint-Jean" width="1600" height="1200" loading="lazy" decoding="async">
+          </button>
+          <div class="venue-card-copy">
+            <p class="venue-number">07 · Outdoors</p>
             <h3>Outdoor Event Space</h3>
             <p>A beautiful natural setting for long lunches, evening dinners and events beneath the trees. The format can evolve with the occasion and will be developed further as the estate’s outdoor programme grows.</p>
             <p class="venue-card-meta">Lunches · dinners · events in nature</p>
@@ -110,11 +122,11 @@
         </article>
 
         <article class="venue-card">
-          <button type="button" class="venue-card-image" data-lightbox-src="/mockdesign/uploads/assets/estate/gallery/estate-040.webp" data-lightbox-caption="The intimate outdoor setting near the wood-fired pizza area">
-            <img src="/mockdesign/uploads/assets/estate/gallery/estate-040.webp" alt="An intimate outdoor gathering place within the estate" width="1600" height="1200" loading="lazy" decoding="async">
+          <button type="button" class="venue-card-image" data-lightbox-src="/uploads/assets/estate/generated/wood-fired-pizza.webp" data-lightbox-caption="Artisan pizza at the wood-fired oven">
+            <img src="/uploads/assets/estate/generated/wood-fired-pizza.webp" alt="A freshly baked artisan pizza beside a glowing wood-fired oven" width="1536" height="1024" loading="lazy" decoding="async">
           </button>
           <div class="venue-card-copy">
-            <p class="venue-number">07 · Outdoors</p>
+            <p class="venue-number">08 · Outdoors</p>
             <h3>Wood-Fired Pizza Area</h3>
             <p>An informal outdoor space centred around the pleasure of cooking and eating together. The wood-fired oven makes it especially suited to relaxed evenings with a small group.</p>
             <p class="venue-card-meta">Ideal for around 7–8 people</p>
@@ -127,7 +139,7 @@
       <p class="section-tag">Made around your event</p>
       <h2>Use one space, or bring the whole estate together.</h2>
       <p>Tell us what you are planning and we will suggest the combination of rooms, accommodation and outdoor settings that suits it best.</p>
-      <a href="/mockdesign/contact" class="btn-dark">Discuss your event</a>
-    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Gn9JsglYrjqgLvkZmZwOC"}
+      <a href="/contact" class="btn-dark">Discuss your event</a>
+    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eXG385pjzl-PbmzxM3n40"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

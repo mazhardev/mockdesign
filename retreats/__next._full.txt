@@ -1,21 +1,21 @@
 1:"$Sreact.fragment"
-2:I[4481,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-3:I[39756,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-4:I[37457,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-5:I[22016,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],""]
-6:I[78339,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-7:I[14020,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-8:I[80937,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
-d:I[68027,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
-:HL["/mockdesign/_next/static/chunks/13nmfe5yoxn-e.css","style"]
-9:T31fb,<header class="retreats-hero">
+2:I[4481,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[39756,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[22016,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],""]
+6:I[78339,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+7:I[14020,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+8:I[80937,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+d:I[68027,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/_next/static/chunks/2c5l7np2_j6k-.css","style"]
+9:T320a,<header class="retreats-hero">
       <div class="retreats-hero-image" role="img" aria-label="Woodland at Bois Saint-Jean"></div>
       <div class="retreats-hero-overlay"></div>
       <div class="retreats-hero-copy">
         <p class="hero-tag">Retreats &amp; Workshops</p>
         <h1>Bring the vision.<br>We’ll shape the experience.</h1>
         <p>More than a venue, Bois Saint-Jean is a partner in creating thoughtful, beautifully supported gatherings.</p>
-        <a href="/mockdesign/contact" class="btn-hero">Plan Your Retreat</a>
+        <a href="/contact" class="btn-hero">Plan Your Retreat</a>
       </div>
     </header>
 
@@ -67,7 +67,7 @@ d:I[68027,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next
           <li><span>02</span><div><strong>Shape the details together</strong><p>We suggest the right accommodation, spaces, meals and support around your programme.</p></div></li>
           <li><span>03</span><div><strong>Receive a personal proposal</strong><p>A considered plan, created for your retreat rather than selected from a standard package.</p></div></li>
         </ol>
-        <a href="/mockdesign/contact" class="btn-dark">Enquire About Your Retreat</a>
+        <a href="/contact" class="btn-dark">Enquire About Your Retreat</a>
       </div>
     </section>
 
@@ -76,50 +76,50 @@ d:I[68027,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next
         <p class="section-tag">The Ceramic Studio</p>
         <h2 id="ceramics-title">A place to slow down and make something by hand.</h2>
         <p>
-          The ceramic studio offers welcoming, creative workshops for complete beginners and more experienced makers. Come alone, bring friends or family, add a workshop to a retreat, or create an original company and team-building experience.
+          The ceramic studio offers welcoming, creative workshops for beginners and more experienced makers. Design your own pieces or choose ready-to-paint ceramics, with personalised guidance in a relaxed studio setting.
         </p>
         <p>
-          Sessions can be arranged privately or as a group workshop and adapted to the people taking part. No previous experience is needed—only curiosity and a willingness to work with clay.
+          Sessions are designed for small groups of 4–6 and can be arranged for friends, families, colleagues or retreat guests. No previous experience is needed—only curiosity and a willingness to make something by hand.
         </p>
         <div class="ceramics-gallery" aria-label="Inside the ceramic studio">
-          <button type="button" class="ceramics-gallery-item ceramics-gallery-lead" data-lightbox-src="/mockdesign/uploads/assets/ceramics/ceramic-043.webp" data-lightbox-caption="Painting a ceramic piece by hand in the Bois Saint-Jean studio">
-            <img src="/mockdesign/uploads/assets/ceramics/ceramic-043.webp" alt="A maker carefully painting a ceramic piece by hand" width="1200" height="1600" loading="lazy" decoding="async">
+          <button type="button" class="ceramics-gallery-item ceramics-gallery-lead" data-lightbox-src="/uploads/assets/ceramics/ceramic-043.webp" data-lightbox-caption="Painting a ceramic piece by hand in the Bois Saint-Jean studio">
+            <img src="/uploads/assets/ceramics/ceramic-043.webp" alt="A maker carefully painting a ceramic piece by hand" width="1200" height="1600" loading="lazy" decoding="async">
           </button>
-          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/mockdesign/uploads/assets/ceramics/ceramic-041.webp" data-lightbox-caption="A quiet moment of making in the ceramic studio">
-            <img src="/mockdesign/uploads/assets/ceramics/ceramic-041.webp" alt="A ceramic workshop participant painting clay at the studio table" width="2200" height="1466" loading="lazy" decoding="async">
+          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/uploads/assets/ceramics/ceramic-041.webp" data-lightbox-caption="A quiet moment of making in the ceramic studio">
+            <img src="/uploads/assets/ceramics/ceramic-041.webp" alt="A ceramic workshop participant painting clay at the studio table" width="2200" height="1466" loading="lazy" decoding="async">
           </button>
-          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/mockdesign/uploads/assets/ceramics/ceramic-039.webp" data-lightbox-caption="The ceramic studio prepared for a workshop">
-            <img src="/mockdesign/uploads/assets/ceramics/ceramic-039.webp" alt="The ceramic studio with workshop tables prepared" width="2200" height="1466" loading="lazy" decoding="async">
+          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/uploads/assets/ceramics/ceramic-039.webp" data-lightbox-caption="The ceramic studio prepared for a workshop">
+            <img src="/uploads/assets/ceramics/ceramic-039.webp" alt="The ceramic studio with workshop tables prepared" width="2200" height="1466" loading="lazy" decoding="async">
           </button>
-          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/mockdesign/uploads/assets/ceramics/ceramic-040.webp" data-lightbox-caption="The making tables and materials inside the studio">
-            <img src="/mockdesign/uploads/assets/ceramics/ceramic-040.webp" alt="A wide view across the ceramic studio tables and shelves" width="2200" height="1466" loading="lazy" decoding="async">
+          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/uploads/assets/ceramics/ceramic-040.webp" data-lightbox-caption="The making tables and materials inside the studio">
+            <img src="/uploads/assets/ceramics/ceramic-040.webp" alt="A wide view across the ceramic studio tables and shelves" width="2200" height="1466" loading="lazy" decoding="async">
           </button>
-          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/mockdesign/uploads/assets/ceramics/ceramic-001.webp" data-lightbox-caption="Ceramic pieces waiting on the studio shelf">
-            <img src="/mockdesign/uploads/assets/ceramics/ceramic-001.webp" alt="Handmade ceramic pieces arranged on a studio shelf" width="1600" height="1200" loading="lazy" decoding="async">
+          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/uploads/assets/ceramics/ceramic-001.webp" data-lightbox-caption="Ceramic pieces waiting on the studio shelf">
+            <img src="/uploads/assets/ceramics/ceramic-001.webp" alt="Handmade ceramic pieces arranged on a studio shelf" width="1600" height="1200" loading="lazy" decoding="async">
           </button>
-          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/mockdesign/uploads/assets/ceramics/ceramic-002.webp" data-lightbox-caption="Colour palettes and brushes ready for a workshop">
-            <img src="/mockdesign/uploads/assets/ceramics/ceramic-002.webp" alt="Ceramic paints, palettes and brushes on the workshop table" width="1200" height="1600" loading="lazy" decoding="async">
+          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/uploads/assets/ceramics/ceramic-002.webp" data-lightbox-caption="Colour palettes and brushes ready for a workshop">
+            <img src="/uploads/assets/ceramics/ceramic-002.webp" alt="Ceramic paints, palettes and brushes on the workshop table" width="1200" height="1600" loading="lazy" decoding="async">
           </button>
-          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/mockdesign/uploads/assets/ceramics/ceramic-006.webp" data-lightbox-caption="Painting a handmade ceramic form">
-            <img src="/mockdesign/uploads/assets/ceramics/ceramic-006.webp" alt="Hands painting a small handmade ceramic form" width="1200" height="1600" loading="lazy" decoding="async">
+          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/uploads/assets/ceramics/ceramic-006.webp" data-lightbox-caption="Painting a handmade ceramic form">
+            <img src="/uploads/assets/ceramics/ceramic-006.webp" alt="Hands painting a small handmade ceramic form" width="1200" height="1600" loading="lazy" decoding="async">
           </button>
-          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/mockdesign/uploads/assets/ceramics/ceramic-009.webp" data-lightbox-caption="Adding painted details by hand">
-            <img src="/mockdesign/uploads/assets/ceramics/ceramic-009.webp" alt="Hands adding painted details to a ceramic piece" width="1200" height="1600" loading="lazy" decoding="async">
+          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/uploads/assets/ceramics/ceramic-009.webp" data-lightbox-caption="Adding painted details by hand">
+            <img src="/uploads/assets/ceramics/ceramic-009.webp" alt="Hands adding painted details to a ceramic piece" width="1200" height="1600" loading="lazy" decoding="async">
           </button>
-          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/mockdesign/uploads/assets/ceramics/ceramic-011.webp" data-lightbox-caption="Small blue ceramic pieces in the studio">
-            <img src="/mockdesign/uploads/assets/ceramics/ceramic-011.webp" alt="Two small blue and white ceramic pieces displayed on a shelf" width="1200" height="1600" loading="lazy" decoding="async">
+          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/uploads/assets/ceramics/ceramic-011.webp" data-lightbox-caption="Small blue ceramic pieces in the studio">
+            <img src="/uploads/assets/ceramics/ceramic-011.webp" alt="Two small blue and white ceramic pieces displayed on a shelf" width="1200" height="1600" loading="lazy" decoding="async">
           </button>
-          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/mockdesign/uploads/assets/ceramics/ceramic-012.webp" data-lightbox-caption="Blue decoration in progress">
-            <img src="/mockdesign/uploads/assets/ceramics/ceramic-012.webp" alt="A blue painted ceramic cup beside a workshop palette" width="1600" height="1200" loading="lazy" decoding="async">
+          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/uploads/assets/ceramics/ceramic-012.webp" data-lightbox-caption="Blue decoration in progress">
+            <img src="/uploads/assets/ceramics/ceramic-012.webp" alt="A blue painted ceramic cup beside a workshop palette" width="1600" height="1200" loading="lazy" decoding="async">
           </button>
-          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/mockdesign/uploads/assets/ceramics/ceramic-035.webp" data-lightbox-caption="A pottery wheel ready for younger makers">
-            <img src="/mockdesign/uploads/assets/ceramics/ceramic-035.webp" alt="A small pottery wheel and chair in the ceramic studio" width="1200" height="1600" loading="lazy" decoding="async">
+          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/uploads/assets/ceramics/ceramic-035.webp" data-lightbox-caption="A pottery wheel ready for younger makers">
+            <img src="/uploads/assets/ceramics/ceramic-035.webp" alt="A small pottery wheel and chair in the ceramic studio" width="1200" height="1600" loading="lazy" decoding="async">
           </button>
-          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/mockdesign/uploads/assets/ceramics/ceramic-036.webp" data-lightbox-caption="Painting ceramics during a workshop">
-            <img src="/mockdesign/uploads/assets/ceramics/ceramic-036.webp" alt="A workshop participant painting a ceramic bowl from above" width="1200" height="1600" loading="lazy" decoding="async">
+          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/uploads/assets/ceramics/ceramic-036.webp" data-lightbox-caption="Painting ceramics during a workshop">
+            <img src="/uploads/assets/ceramics/ceramic-036.webp" alt="A workshop participant painting a ceramic bowl from above" width="1200" height="1600" loading="lazy" decoding="async">
           </button>
-          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/mockdesign/uploads/assets/ceramics/ceramic-037.webp" data-lightbox-caption="Decorating a ceramic vase by hand">
-            <img src="/mockdesign/uploads/assets/ceramics/ceramic-037.webp" alt="Hands painting a ceramic vase during a workshop" width="1200" height="1600" loading="lazy" decoding="async">
+          <button type="button" class="ceramics-gallery-item" data-lightbox-src="/uploads/assets/ceramics/ceramic-037.webp" data-lightbox-caption="Decorating a ceramic vase by hand">
+            <img src="/uploads/assets/ceramics/ceramic-037.webp" alt="Hands painting a ceramic vase during a workshop" width="1200" height="1600" loading="lazy" decoding="async">
           </button>
         </div>
 
@@ -147,7 +147,7 @@ d:I[68027,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next
           <div class="ceramics-form-row">
             <label class="form-group">
               <span class="form-label">Group size</span>
-              <input type="number" name="groupSize" class="form-input" min="1" placeholder="Number of people" required>
+              <input type="number" name="groupSize" class="form-input" min="4" max="6" placeholder="4–6 people" required>
             </label>
             <label class="form-group">
               <span class="form-label">Preferred date</span>
@@ -176,17 +176,17 @@ d:I[68027,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next
       <p class="section-tag">Your retreat, your way</p>
       <h2>No two gatherings here need to look the same.</h2>
       <p>We are happy to discuss every individual requirement and create the combination of spaces, stays, food and support that brings your idea to life.</p>
-      <a href="/mockdesign/contact" class="btn-dark">Plan Your Retreat</a>
-    </section>0:{"P":null,"c":["","retreats",""],"q":"","i":false,"f":[[["",{"children":["retreats",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mockdesign/_next/static/chunks/13nmfe5yoxn-e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/mockdesign/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"style":{"--hero-banner-image":"url('/mockdesign/uploads/assets/estate/gallery/estate-002.webp')","--workspace-hero-image":"url('/mockdesign/uploads/assets/estate/gallery/workspaces-001.webp')","--contact-image":"url('/mockdesign/uploads/assets/estate/gallery/estate-001.webp')","--retreats-hero-image":"url('/mockdesign/uploads/assets/estate/gallery/venues-023.webp')","--retreats-journey-image":"url('/mockdesign/uploads/assets/estate/gallery/venues-020.webp')"},"children":["$","div",null,{"className":"site-wrapper","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"children":[["$","p",null,{"className":"footer-brand","children":"BOIS SAINT-JEAN"}],["$","p",null,{"className":"footer-sub","children":"Estate · Belgian Ardennes"}]]}],["$","div",null,{"className":"footer-col","children":[["$","$L5",null,{"href":"/mockdesign/about","children":"About"}],["$","$L5",null,{"href":"/mockdesign/stay","children":"Stay"}],["$","$L5",null,{"href":"/mockdesign/spaces","children":"Spaces & Venue Hire"}]]}],["$","div",null,{"className":"footer-col","children":[["$","$L5",null,{"href":"/mockdesign/retreats","children":"Retreats & Workshops"}],["$","$L5",null,{"href":"/mockdesign/gallery","children":"Gallery"}],["$","$L5",null,{"href":"/mockdesign/faq","children":"FAQ & House Rules"}],["$","$L5",null,{"href":"/mockdesign/contact","children":"Contact"}]]}],["$","div",null,{"children":[["$","a",null,{"href":"mailto:location@boisstjean.be","style":{"fontSize":13,"color":"rgba(247,244,238,.62)"},"children":"location@boisstjean.be"}],["$","a",null,{"href":"tel:+32491559181","style":{"display":"block","marginTop":10,"fontSize":13,"color":"rgba(247,244,238,.45)"},"children":"+32 491 55 91 81 · Victoire Verdays"}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","p",null,{"className":"footer-copy","children":"© 2026 Bois Saint-Jean Estate. All rights reserved."}],["$","div",null,{"className":"footer-legal-links","children":[["$","$L5",null,{"href":"/mockdesign/privacy","children":"Privacy policy"}],["$","$L5",null,{"href":"/mockdesign/privacy","children":"Cookie policy"}]]}]]}]]}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$9"}}],null,"$La"]}],{},null,false,null]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Gn9JsglYrjqgLvkZmZwOC"}
-f:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+      <a href="/contact" class="btn-dark">Plan Your Retreat</a>
+    </section>0:{"P":null,"c":["","retreats",""],"q":"","i":false,"f":[[["",{"children":["retreats",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2c5l7np2_j6k-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/13kh6g18m-r-0.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"style":{"--hero-banner-image":"url('/uploads/assets/estate/gallery/estate-002.webp')","--workspace-hero-image":"url('/uploads/assets/estate/gallery/workspaces-001.webp')","--contact-image":"url('/uploads/assets/estate/gallery/estate-001.webp')","--retreats-hero-image":"url('/uploads/assets/estate/gallery/venues-023.webp')","--retreats-journey-image":"url('/uploads/assets/estate/gallery/venues-020.webp')"},"children":["$","div",null,{"className":"site-wrapper","children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-top","children":[["$","div",null,{"children":[["$","p",null,{"className":"footer-brand","children":"BOIS SAINT-JEAN"}],["$","p",null,{"className":"footer-sub","children":"Estate · Belgian Ardennes"}]]}],["$","div",null,{"className":"footer-col","children":[["$","$L5",null,{"href":"/about","children":"About"}],["$","$L5",null,{"href":"/stay","children":"Stay"}],["$","$L5",null,{"href":"/spaces","children":"Spaces & Venue Hire"}]]}],["$","div",null,{"className":"footer-col","children":[["$","$L5",null,{"href":"/retreats","children":"Retreats & Workshops"}],["$","$L5",null,{"href":"/gallery","children":"Gallery"}],["$","$L5",null,{"href":"/faq","children":"FAQ & House Rules"}],["$","$L5",null,{"href":"/contact","children":"Contact"}]]}],["$","div",null,{"children":[["$","a",null,{"href":"mailto:location@boisstjean.be","style":{"fontSize":13,"color":"rgba(247,244,238,.62)"},"children":"location@boisstjean.be"}],["$","a",null,{"href":"tel:+32491559181","style":{"display":"block","marginTop":10,"fontSize":13,"color":"rgba(247,244,238,.45)"},"children":"+32 491 55 91 81 · Victoire Verdays"}]]}]]}],["$","div",null,{"className":"footer-bottom","children":[["$","p",null,{"className":"footer-copy","children":"© 2026 Bois Saint-Jean Estate. All rights reserved."}],["$","div",null,{"className":"footer-legal-links","children":[["$","$L5",null,{"href":"/privacy","children":"Privacy policy"}],["$","$L5",null,{"href":"/privacy","children":"Cookie policy"}]]}]]}]]}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$9"}}],null,"$La"]}],{},null,false,null]},null,false,"$@b"]},null,false,null],"$Lc",false]],"m":"$undefined","G":["$d",["$Le"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"eXG385pjzl-PbmzxM3n40"}
+f:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 10:"$Sreact.suspense"
-13:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
-15:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+13:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+15:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
 a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
 12:[]
 b:"$W12"
 c:["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$10",null,{"name":"Next.Metadata","children":"$L16"}]}]}],null]}]
-e:["$","link","0",{"rel":"stylesheet","href":"/mockdesign/_next/static/chunks/13nmfe5yoxn-e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+e:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2c5l7np2_j6k-.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
 14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 11:null
 16:[["$","title","0",{"children":"Retreats & Workshops | Bois Saint-Jean"}],["$","meta","1",{"name":"description","content":"Plan a bespoke retreat, leadership gathering or ceramic workshop with accommodation, catering, spaces and event support at Bois Saint-Jean."}]]

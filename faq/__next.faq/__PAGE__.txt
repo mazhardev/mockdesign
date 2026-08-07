@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-4:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T25b2,<header class="faq-hero">
+2:T27b7,<header class="faq-hero">
       <div>
         <p class="section-tag">FAQ &amp; House Rules</p>
         <h1 class="page-title">A thoughtful way to share the estate</h1>
@@ -12,7 +12,7 @@
     </header>
 
     <div class="faq-estate-image">
-      <img src="/mockdesign/uploads/assets/estate/gallery/estate-013.webp" alt="The historic buildings and courtyard at Bois Saint-Jean" width="1600" height="1067" decoding="async">
+      <img src="/uploads/assets/estate/gallery/estate-013.webp" alt="The historic buildings and courtyard at Bois Saint-Jean" width="1600" height="1067" decoding="async">
     </div>
 
     <section class="estate-respect" id="respecting-the-estate" aria-labelledby="respect-title">
@@ -67,7 +67,7 @@
             <span>01</span>
             <div>
               <h3>Registered guests only</h3>
-              <p>The accommodation is reserved for the guests included in the booking. Parties, open-invitation gatherings and bachelor or bachelorette celebrations are not permitted. Any separately arranged estate event must be agreed with us in advance.</p>
+              <p>The accommodation is reserved for the guests included in the booking. Parties, events, open-invitation gatherings and bachelor or bachelorette celebrations are not permitted anywhere on the estate.</p>
             </div>
           </article>
           <article>
@@ -102,7 +102,7 @@
             <span>06</span>
             <div>
               <h3>Use designated parking</h3>
-              <p>Please park only in the spaces assigned to your accommodation and keep public roads, entrances and neighbouring private access clear.</p>
+              <p>Private parking is available free of charge. Please use the spaces assigned to your accommodation and keep public roads, entrances and neighbouring private access clear.</p>
             </div>
           </article>
           <article>
@@ -149,6 +149,26 @@
 
       <div class="faq-list">
         <details open>
+          <summary>Are pets allowed?</summary>
+          <p>No. Pets are not allowed anywhere on the estate.</p>
+        </details>
+        <details>
+          <summary>Are parties or events permitted on the estate?</summary>
+          <p>No. Parties and events are not permitted anywhere on the estate.</p>
+        </details>
+        <details>
+          <summary>Is a security deposit required?</summary>
+          <p>Yes. A security deposit is required upon guests' arrival.</p>
+        </details>
+        <details>
+          <summary>Is parking available?</summary>
+          <p>Yes. Private parking is available free of charge.</p>
+        </details>
+        <details>
+          <summary>Are electric vehicle charging stations available?</summary>
+          <p>No. There are no electric vehicle charging stations on the estate.</p>
+        </details>
+        <details open>
           <summary>Is the whole estate private during my stay?</summary>
           <p>No. Each house is private and has designated outdoor areas, but the wider estate may be shared with other guests or activities. The entire property is private only when it has been booked exclusively.</p>
         </details>
@@ -162,12 +182,9 @@
         </details>
         <details>
           <summary>Can we book the estate exclusively?</summary>
-          <p>Exclusive use can be discussed for retreats, events and larger private gatherings. Tell us about your plans and we will explain which houses and spaces can be combined.</p>
+          <p>Exclusive use can be discussed for retreats and multi-house stays. Tell us about your plans and we will explain which houses and spaces can be combined.</p>
         </details>
-        <details>
-          <summary>Can we organise an event or invite additional visitors?</summary>
-          <p>Please arrange events, workshops and additional visitors with us in advance. This allows us to prepare the right spaces, facilities and practical support while protecting the comfort of everyone on the estate.</p>
-        </details>
+        
         <details>
           <summary>What information will we receive before arrival?</summary>
           <p>We will provide the practical details relevant to your booking, including arrival arrangements, access, the areas connected to your house and anything else needed for a comfortable stay.</p>
@@ -183,7 +200,7 @@
       <p class="section-tag">Still wondering?</p>
       <h2>Ask us before you arrive.</h2>
       <p>Every stay and gathering is different. We are always happy to clarify the arrangements and help you enjoy the estate with confidence.</p>
-      <a href="/mockdesign/contact" class="btn-dark">Contact the Estate</a>
-    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Gn9JsglYrjqgLvkZmZwOC"}
+      <a href="/contact" class="btn-dark">Contact the Estate</a>
+    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eXG385pjzl-PbmzxM3n40"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

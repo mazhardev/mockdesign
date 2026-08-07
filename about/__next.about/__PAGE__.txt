@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-4:I[97367,["/mockdesign/_next/static/chunks/13kh6g18m-r-0.js","/mockdesign/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 2:T20a2,<div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px) clamp(32px,4vw,56px);max-width:1000px;">
       <p class="section-tag">The Estate</p>
@@ -9,7 +9,7 @@
       </p>
     </div>
 
-    <div style="position:relative;height:clamp(280px,42vw,540px);background:url('/mockdesign/uploads/assets/estate/gallery/estate-068.webp') center 58%/cover no-repeat #E5DFD3;"></div>
+    <div style="position:relative;height:clamp(280px,42vw,540px);background:url('/uploads/assets/estate/gallery/estate-068.webp') center 58%/cover no-repeat #E5DFD3;"></div>
 
     <!-- Quote Block -->
     <div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px);background:#EFEBE2;text-align:center;">
@@ -29,7 +29,7 @@
           What makes it exceptional is the exclusivity: an entirely private estate, sheltered from the outside world, where space, tranquillity and privacy come together as one of life's greatest luxuries. No crowds, no traffic, no distractions — only the rare feeling of having nature all to yourself.
         </p>
       </div>
-      <div style="position:relative;aspect-ratio:4/5;background:url('/mockdesign/uploads/assets/estate/gallery/estate-025.webp') center/cover no-repeat #E5DFD3;"></div>
+      <div style="position:relative;aspect-ratio:4/5;background:url('/uploads/assets/estate/gallery/estate-025.webp') center/cover no-repeat #E5DFD3;"></div>
     </div>
 
     <!-- The Seasons -->
@@ -60,7 +60,7 @@
 
     <!-- The Houses -->
     <div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px);display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:clamp(28px,4vw,70px);align-items:center;">
-      <div style="position:relative;aspect-ratio:4/5;background:url('/mockdesign/uploads/assets/estate/gallery/farm-cottage-004.webp') center/cover no-repeat #E5DFD3;"></div>
+      <div style="position:relative;aspect-ratio:4/5;background:url('/uploads/assets/estate/gallery/farm-cottage-004.webp') center/cover no-repeat #E5DFD3;"></div>
       <div>
         <h2 style="margin:0 0 18px;font-family:var(--font-heading);font-size:clamp(22px,2.4vw,34px);line-height:1.25;color:#22201C;">The houses</h2>
         <p style="margin:0 0 16px;font-size:clamp(14.5px,1.15vw,16.5px);line-height:1.8;color:rgba(34,32,28,.7);text-wrap:pretty;">
@@ -69,7 +69,7 @@
         <p style="margin:0 0 20px;font-size:clamp(14.5px,1.15vw,16.5px);line-height:1.8;color:rgba(34,32,28,.7);text-wrap:pretty;">
           Right for gathering with family, sharing a memorable meal with friends, or simply sitting quietly by the fire.
         </p>
-        <a href="/mockdesign/stay" class="card-link-arrow">The houses →</a>
+        <a href="/stay" class="card-link-arrow">The houses →</a>
       </div>
     </div>
 
@@ -86,9 +86,9 @@
 
     <!-- Triple Image Grid -->
     <div style="padding:0 clamp(20px,5vw,84px) clamp(48px,7vw,110px);display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:clamp(20px,2.6vw,44px);">
-      <div style="position:relative;aspect-ratio:1;background:url('/mockdesign/uploads/assets/estate/gallery/estate-014.webp') center/cover no-repeat #E5DFD3;"></div>
-      <div style="position:relative;aspect-ratio:1;background:url('/mockdesign/uploads/assets/estate/gallery/workspaces-001.webp') center/cover no-repeat #E5DFD3;"></div>
-      <div style="position:relative;aspect-ratio:1;background:url('/mockdesign/uploads/assets/estate/gallery/venues-026.webp') center/cover no-repeat #E5DFD3;"></div>
+      <div style="position:relative;aspect-ratio:1;background:url('/uploads/assets/estate/gallery/estate-014.webp') center/cover no-repeat #E5DFD3;"></div>
+      <div style="position:relative;aspect-ratio:1;background:url('/uploads/assets/estate/gallery/workspaces-001.webp') center/cover no-repeat #E5DFD3;"></div>
+      <div style="position:relative;aspect-ratio:1;background:url('/uploads/assets/estate/gallery/venues-026.webp') center/cover no-repeat #E5DFD3;"></div>
     </div>
 
     <!-- Closing -->
@@ -99,6 +99,6 @@
       <p style="margin:0 auto;max-width:26ch;font-family:var(--font-heading);font-size:clamp(24px,3.4vw,48px);line-height:1.32;color:#F7F4EE;text-wrap:balance;">
         Welcome to Bois Saint-Jean.
       </p>
-    </div>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Gn9JsglYrjqgLvkZmZwOC"}
+    </div>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eXG385pjzl-PbmzxM3n40"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
