@@ -1,11 +1,11 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T1152,<div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px) clamp(30px,4vw,52px);max-width:900px;">
+2:T121f,<div style="padding:clamp(48px,7vw,110px) clamp(20px,5vw,84px) clamp(30px,4vw,52px);max-width:900px;">
       <p class="section-tag">Stay</p>
       <h1 class="page-title">Four countryside homes within the estate</h1>
       <p class="page-subtitle">
-        Whether you are planning a retreat, a family gathering or a peaceful escape, each house is let privately with the run of the estate. Take one, or take them all. Free, high-speed Wi-Fi is available throughout the estate.
+        Whether you are planning a retreat, a family gathering or a peaceful escape, each property is let as an entire house with its own designated outdoor areas within the private estate. Take one, or take them all. Free, high-speed Wi-Fi is available throughout the estate.
       </p>
     </div>
 
@@ -41,7 +41,7 @@
             <h2 style="margin:0;font-family:var(--font-heading);font-size:clamp(21px,2.1vw,30px);line-height:1.2;color:#22201C;">Maison des Écuries</h2>
             <span style="font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(34,32,28,.5);white-space:nowrap;">4 bedrooms · 7 guests</span>
           </div>
-          <p class="card-text" style="max-width:44ch;">Sleeps 7 guests across 4 bedrooms and 4 beds, with 2 bathrooms, 1 kitchen and 1 living room.</p>
+          <p class="card-text" style="max-width:44ch;">Sleeps 7 guests across 4 bedrooms and 5 beds, with 2 bathrooms, 1 kitchen and 1 living room. Authentic, bright and cosy, with a private garden designed for families.</p>
           <span class="card-link-arrow">Discover →</span>
         </a>
 
@@ -52,11 +52,11 @@
             <h2 style="margin:0;font-family:var(--font-heading);font-size:clamp(21px,2.1vw,30px);line-height:1.2;color:#22201C;">Maison de la Vallée</h2>
             <span style="font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(34,32,28,.5);white-space:nowrap;">3 bedrooms · 7 guests</span>
           </div>
-          <p class="card-text" style="max-width:44ch;">Sleeps 7 guests across 3 bedrooms and 5 beds, with 2 bathrooms, 1 kitchen and 1 living room.</p>
+          <p class="card-text" style="max-width:44ch;">Sleeps 7 guests across 3 bedrooms and 9 beds, with 2 bathrooms, 1 kitchen and 1 living room. A secluded, newly renovated house with a peaceful setting for groups and families.</p>
           <span class="card-link-arrow">Discover →</span>
         </a>
 
       </div>
-    </div>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eXG385pjzl-PbmzxM3n40"}
+    </div>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"YT2Wo7PshUm2aVZyopnCb"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null

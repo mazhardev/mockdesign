@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/13kh6g18m-r-0.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T27a3,<header class="venues-intro">
+2:T28a7,<header class="venues-intro">
       <p class="section-tag">Spaces &amp; Venue Hire</p>
       <h1 class="page-title">A setting for every kind of gathering</h1>
       <p class="page-subtitle">
@@ -9,7 +9,7 @@
       </p>
       <div class="venues-intro-note">
         <span>One estate</span>
-        <p>From focused meetings to generous celebrations, the spaces work together naturally while each retains its own atmosphere.</p>
+        <p>Across a private estate of lush nature, ponds and peaceful seasonal landscapes, the spaces work together naturally while each retains its own atmosphere.</p>
       </div>
     </header>
 
@@ -27,6 +27,7 @@
           <div><dt>Capacity</dt><dd>150</dd></div>
           <div><dt>Area</dt><dd>200 m²</dd></div>
         </dl>
+        <p class="venue-card-meta">Historic fireplaces · free high-speed Wi-Fi · price on request</p>
         <a href="/contact" class="card-link-arrow">Enquire about The Grange →</a>
       </div>
     </section>
@@ -46,7 +47,7 @@
             <p class="venue-number">02 · Indoor</p>
             <h3>Salle des Traqueurs</h3>
             <p>A characterful reception and dining space beneath traditional vaulted ceilings. Stone walls, a fireplace and a practical bar area with a sink make it equally welcoming for shared meals, meetings, workshops and group activities.</p>
-            <p class="venue-card-meta">Capacity 90 · fireplace · bar area · free Wi-Fi</p>
+            <p class="venue-card-meta">Capacity 90 · fireplace · bar with sink · tableware · free Wi-Fi · price on request</p>
           </div>
         </article>
 
@@ -79,9 +80,9 @@
           </div>
           <div class="venue-card-copy">
             <p class="venue-number">04 · Meetings &amp; workshops</p>
-            <h3>The Bureau</h3>
+            <h3>The Bureau – Offices &amp; Meeting Rooms</h3>
             <p>A dedicated building for meetings, workshops and smaller conferences, with private parking, a fully equipped kitchen, a private bathroom and two exclusive lounge areas. Breakfast and catering can be arranged around the day.</p>
-            <p class="venue-card-meta">Combined capacity 30 · free high-speed Wi-Fi · private parking</p>
+            <p class="venue-card-meta">Combined capacity 30 · free high-speed Wi-Fi · private parking · price on request</p>
           </div>
         </article>
 
@@ -93,7 +94,7 @@
             <p class="venue-number">05 · Business</p>
             <h3>Sand &amp; Wood Meeting Rooms</h3>
             <p>Two distinct rooms, each welcoming up to 15 people. The light-filled Sand room and timber-framed Wood room both include a connected display, stationery and comfortable seating; the Wood room also has its own lounge.</p>
-            <p class="venue-card-meta">15 people per room · connected displays · stationery</p>
+            <p class="venue-card-meta">15 people per room · connected displays · stationery · free Wi-Fi · price on request</p>
           </div>
         </article>
 
@@ -140,6 +141,6 @@
       <h2>Use one space, or bring the whole estate together.</h2>
       <p>Tell us what you are planning and we will suggest the combination of rooms, accommodation and outdoor settings that suits it best.</p>
       <a href="/contact" class="btn-dark">Discuss your event</a>
-    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"eXG385pjzl-PbmzxM3n40"}
+    </section>0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-container","dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"YT2Wo7PshUm2aVZyopnCb"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
